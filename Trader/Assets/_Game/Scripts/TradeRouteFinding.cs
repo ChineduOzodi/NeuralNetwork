@@ -10,14 +10,13 @@ public class TradeRouteFinding : MonoBehaviour
     public bool displayGizmos = false;
     TradeRouteRequestManager requestManager;
 
-    private int maxLocalSize = 100 * 100;
     private GameManager game;
-    private CreateGalaxy galaxy;
+    private GalaxyManager galaxy;
     // Use this for initialization
     void Awake()
     {
         game = GetComponent<GameManager>();
-        galaxy = GetComponent<CreateGalaxy>();
+        galaxy = GetComponent<GalaxyManager>();
         requestManager = GetComponent<TradeRouteRequestManager>();
 
     }
@@ -34,22 +33,23 @@ public class TradeRouteFinding : MonoBehaviour
     }
     IEnumerator FindTradeRoute(ShipModel model)
     {
+        Items item = new Items();
         bool success = false;
         StationModel[] targets = new StationModel[2];
         while (true)
         {
             model.mode = ShipMode.SearchingTradeRoute;
-            float profitability = 0;
+            double profitability = 0;
             foreach (StationModel sellStation in game.data.stations)
             {
 
-                foreach (Items inputItem in sellStation.factory.inputItems)
+                foreach (ProductionItem inputItem in sellStation.factory.inputItems)
                 {
                     foreach (StationModel buyStation in game.data.stations)
                     {
-                        foreach (Items outputItem in buyStation.factory.outputItems)
+                        foreach (ProductionItem outputItem in buyStation.factory.outputItems)
                         {
-                            int amountToBuy = model.capacity;
+                            float amountToBuy = model.capacity;
                             if (outputItem.amount < amountToBuy)
                                 amountToBuy = outputItem.amount;
                             if (amountToBuy * inputItem.price > sellStation.money - 1000)
@@ -63,31 +63,31 @@ public class TradeRouteFinding : MonoBehaviour
                                 amountToBuy = (int)(model.money / outputItem.price);
                             }
 
-                            float stationBDistance = (galaxy.stars[buyStation.solar.starIndex].position - model.hyperSpacePosition).magnitude;
-                            stationBDistance += (buyStation.solar.GetWorldPosition(game.data.date.time) - model.solar.GetWorldPosition(game.data.date.time)).magnitude;
-                            float routeDistance = (galaxy.stars[sellStation.solar.starIndex].position - galaxy.stars[buyStation.solar.starIndex].position).magnitude;
-                            routeDistance += (sellStation.solar.GetWorldPosition(game.data.date.time) - buyStation.solar.GetWorldPosition(game.data.date.time)).magnitude;
+                            //double stationBDistance = (game.data.stars[buyStation.solarIndex].galacticPosition - model.galaxyPosition).magnitude;
+                            //stationBDistance += (buyStation.GamePosition(game.data.date.time) - model.GamePosition(game.data.date.time)).magnitude;
+                            //double routeDistance = (game.data.stars[sellStation.solarIndex].galacticPosition - game.data.stars[buyStation.solarIndex].galacticPosition).magnitude;
+                            //routeDistance += (sellStation.GamePosition(game.data.date.time) - buyStation.GamePosition(game.data.date.time)).magnitude;
 
-                            float distanceToTargetCost = stationBDistance / model.speed / model.fuelEfficiency;
-                            float routeDistanceCost = routeDistance / model.speed / model.fuelEfficiency;
-                            //print("will make: " + (inputItem.price - outputItem.price) * amountToBuy);
-                            //print("will lose: " + (distanceToTargetCost + routeDistanceCost));
-                            if (inputItem.name == outputItem.name && ((inputItem.price - outputItem.price) * amountToBuy - distanceToTargetCost - routeDistanceCost > profitability))
-                            {
-                                profitability = (inputItem.price - outputItem.price) * amountToBuy - distanceToTargetCost - routeDistanceCost;
-                                success = true;
-                                targets[0] = buyStation;
-                                targets[1] = sellStation;
-                                model.item = new Items(inputItem.name, model.capacity);
-                                model.spriteColor = Color.blue;
-                            }
+                            //double distanceToTargetCost = stationBDistance / model.speed / model.fuelEfficiency;
+                            //double routeDistanceCost = routeDistance / model.speed / model.fuelEfficiency;
+                            ////print("will make: " + (inputItem.price - outputItem.price) * amountToBuy);
+                            ////print("will lose: " + (distanceToTargetCost + routeDistanceCost));
+                            //if (inputItem.name == outputItem.name && ((inputItem.price - outputItem.price) * amountToBuy - distanceToTargetCost - routeDistanceCost > profitability))
+                            //{
+                            //    profitability = (inputItem.price - outputItem.price) * amountToBuy - distanceToTargetCost - routeDistanceCost;
+                            //    success = true;
+                            //    targets[0] = buyStation;
+                            //    targets[1] = sellStation;
+                            //    item = new Items(inputItem.name, inputItem.itemType, model.capacity);
+                            //    model.spriteColor = Color.blue;
+                            //}
                         }
                     }
                 }
 
                 yield return null;
             }
-            requestManager.FinishedProcessingRoute(model, targets, success);
+            requestManager.FinishedProcessingRoute(model, item, targets, success);
             
             yield break;
         }

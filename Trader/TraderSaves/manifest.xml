@@ -2,2904 +2,4008 @@
 <Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Entries>
     <ModelEntry>
-      <Id>ff0ba1be-77ce-4c06-af4d-b7300933121b</Id>
+      <Id>69206890-4747-4d13-9c64-ab180954e18c</Id>
       <Type>GameDataModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>35d1554d-ee69-4e52-82ac-31ced26d5cc9</Id>
-      <Type>StationModel</Type>
+      <Id>a81995a0-2a16-4c13-89f9-d5ee358c3ff3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3be34205-8f65-4c4e-8de6-2fbff709c75d</Id>
-      <Type>CreatureModel</Type>
+      <Id>c006a07a-148e-40ad-8a84-3940bd37c2cf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>aed417b5-2b45-47f2-91fc-90221bb39933</Id>
-      <Type>CreatureModel</Type>
+      <Id>4b02e828-0203-40a8-a0b4-68712a9b042e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d3c55c71-3f40-45b9-b593-0b4af30140ea</Id>
-      <Type>CreatureModel</Type>
+      <Id>e7d63b6f-10c7-4f24-bd30-721fa09e13ba</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5b463bb0-17db-466e-af39-3ee934efbb1c</Id>
-      <Type>StationModel</Type>
+      <Id>4286212f-d763-460d-a90e-9f3b9e9be63e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4aab3b46-0e8a-47ef-b6f5-c07f763aba56</Id>
-      <Type>CreatureModel</Type>
+      <Id>7b28f263-2177-49c5-9142-63d5074f16a1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4d87a9ba-d2d5-445d-91b4-e1263d494ab5</Id>
-      <Type>CreatureModel</Type>
+      <Id>91328419-2ece-4570-bc28-9a78f5fdc3ef</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1e43c101-2368-49fc-8093-b61f4444ad59</Id>
-      <Type>CreatureModel</Type>
+      <Id>08ad32bc-9a7b-46d3-9dd2-18412cf9cbe7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>79ceecf5-7b4e-4fb5-927d-6887e89eef8e</Id>
-      <Type>StationModel</Type>
+      <Id>807c2fa8-7154-4f2f-a9da-9992d7990681</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e1ef6515-17bf-4f02-a42d-d5aacfdd6478</Id>
-      <Type>CreatureModel</Type>
+      <Id>13ff4922-e57c-49ba-b149-e3f356fa6092</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>706c0ff8-1320-4a89-a594-d18028537369</Id>
-      <Type>CreatureModel</Type>
+      <Id>d421272a-06f4-43b1-9a85-e33696e6fd8d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>94ac8b33-16f2-48e6-ae6b-9a71b13d93cb</Id>
-      <Type>CreatureModel</Type>
+      <Id>7cc7d358-4bb8-4bf0-9575-e56c1809c11a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bcce6f34-caf6-45c7-8c95-47edb7c8dda2</Id>
-      <Type>StationModel</Type>
+      <Id>c5c4dd2a-e2f9-40fa-84a9-de9bdc548048</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>302eb693-4060-4215-b17e-8bd3826c8e52</Id>
-      <Type>CreatureModel</Type>
+      <Id>fcce020b-354c-4133-b070-38da3c48b2d3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bbea71de-3594-4d75-b73c-4f9f8ab82267</Id>
-      <Type>CreatureModel</Type>
+      <Id>eea3b167-b686-4a65-a9df-92e0beb2c36e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>cee87fcc-8350-46ae-96ff-600baa35012c</Id>
-      <Type>CreatureModel</Type>
+      <Id>b94f2883-af28-418b-8a17-74bb2d7b0971</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fad6717a-a3b2-4d76-bd23-993596ede85e</Id>
-      <Type>StationModel</Type>
+      <Id>556accaa-67e7-4159-8b57-4f353e26e4ae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>24fbc468-7c9e-48e0-b3c1-fc3db956a11b</Id>
-      <Type>CreatureModel</Type>
+      <Id>7b31f523-5784-4910-8a61-d18782fad129</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8d1665a2-dce5-4d39-af64-3b40cabc5376</Id>
-      <Type>CreatureModel</Type>
+      <Id>47753baa-2b7f-4739-9cab-cab4484f27cd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4540ff92-fa83-4d6a-a7ba-d2561d8f46d9</Id>
-      <Type>CreatureModel</Type>
+      <Id>7951791f-c7be-42a6-9228-96e17a19d292</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7f7991ea-75e6-406d-b30b-6239f0d8a2c4</Id>
-      <Type>StationModel</Type>
+      <Id>9e2a1f44-5514-4c37-bad9-18b161624cbd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>42997d0b-e402-4a89-a7bd-2c04ee257893</Id>
-      <Type>CreatureModel</Type>
+      <Id>ce401499-eaca-405e-bd4f-4fc1ca9c5f8d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4c8d6473-3b92-410f-98eb-847315a5423f</Id>
-      <Type>CreatureModel</Type>
+      <Id>60b363d5-57c9-43b8-9eb8-04cfdb318ad0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>753e081c-6076-45fe-a5ac-2899ce23fa70</Id>
-      <Type>CreatureModel</Type>
+      <Id>e1d075ab-bacb-455e-b513-86dfacda8c21</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eed6303a-6775-4ecf-a6cc-e4ca12fd5c5e</Id>
-      <Type>StationModel</Type>
+      <Id>51e62e53-efaa-4edf-be69-258827610b21</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2f70dcd8-659f-4ec6-97ca-371d77ed6639</Id>
-      <Type>CreatureModel</Type>
+      <Id>3686e475-b578-420a-97a7-e434130e0d38</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>60c8db78-4fe8-48d7-8e94-37b6607ff10d</Id>
-      <Type>CreatureModel</Type>
+      <Id>3b4fd07e-b14f-4861-99d0-3a11a0da75ff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>31ca66a2-8998-49a0-923b-7e74ee6cc90c</Id>
-      <Type>CreatureModel</Type>
+      <Id>74f3d91e-25ea-4f41-821f-8203b5a6a5ad</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c4dc54bc-9bda-4606-a49e-539314876fde</Id>
-      <Type>StationModel</Type>
+      <Id>d58ffbca-b351-460b-9572-ff63a2b8dff3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d6781849-8550-4dc0-9fb6-c6b01c560f35</Id>
-      <Type>CreatureModel</Type>
+      <Id>06d83cdb-8046-4e08-832a-2db5133790ff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>96972de2-c139-4af2-9284-0a11de7f7167</Id>
-      <Type>CreatureModel</Type>
+      <Id>3b3a34bc-1b9e-4b8d-8bb7-cdecd93a64e9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6b3abccf-309f-4664-b9c1-97567fcf3dec</Id>
-      <Type>CreatureModel</Type>
+      <Id>f3702887-a498-473d-980b-60314b5e36a0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>436363f7-fcfb-4d72-9fc5-92edc1ff0664</Id>
-      <Type>StationModel</Type>
+      <Id>7634e302-92c1-4be7-a891-3f9a0a87ff1c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c055b51b-c5ac-45b0-b9d1-05e716704c9a</Id>
-      <Type>CreatureModel</Type>
+      <Id>ed3b7d13-cd42-4578-a53e-87dae4c268ae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>41216ff9-faef-4993-85f8-cc3efee61b8e</Id>
-      <Type>CreatureModel</Type>
+      <Id>453613b9-d13a-44bb-8396-b77843c7797e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fbde6b59-bbe5-4da9-a977-14dd9d6d3786</Id>
-      <Type>CreatureModel</Type>
+      <Id>b6d757b4-1fab-4ff4-8035-4b95736b0537</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>48d9679c-186f-48da-af29-f59a7c23b66a</Id>
-      <Type>StationModel</Type>
+      <Id>73a14a82-1a4b-42ed-9f78-8979b50f95fa</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5706a348-b4d0-4426-9627-8850651056a6</Id>
-      <Type>CreatureModel</Type>
+      <Id>52b8e2ed-99b1-4a5e-bdff-8bfd0511dcd0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9222720c-6e4b-4752-88fd-a2ca9f087708</Id>
-      <Type>CreatureModel</Type>
+      <Id>02e4cf00-8393-4238-a8e5-562ce562d672</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1c8aeec8-fd7a-43c8-932a-6b1001370a93</Id>
-      <Type>CreatureModel</Type>
+      <Id>a431a6e6-f111-4d35-a4e6-923a2349a6dd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>61ec0c92-2442-481e-9df1-51175535bb37</Id>
-      <Type>StationModel</Type>
+      <Id>04cc0eda-9f73-4c0b-a308-2159577ef88e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>743806dc-da74-4c33-8768-cfa375ca744f</Id>
-      <Type>CreatureModel</Type>
+      <Id>791470c1-13b2-4b1a-adc8-caaa0fac6198</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f8c55e26-109c-4887-af06-f27f1e1a2933</Id>
-      <Type>CreatureModel</Type>
+      <Id>479f4c7b-3827-4f40-b4d1-73771166df05</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f5e4244f-6330-4da6-b78e-f41ff41660ad</Id>
-      <Type>CreatureModel</Type>
+      <Id>481e178b-e34d-48d1-aabb-254d380973e8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ededc4de-0f08-4da9-9148-bf6f6d7064a0</Id>
-      <Type>StationModel</Type>
+      <Id>e07078f8-099b-4619-b48e-578835ac7db0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>46898359-87c8-4a47-ad51-bd5886e6d02e</Id>
-      <Type>CreatureModel</Type>
+      <Id>09d0ab7b-6f0a-407a-9881-cfd34071db8e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f03a9850-4e2c-4cd8-8919-99768a9ea95d</Id>
-      <Type>CreatureModel</Type>
+      <Id>140eff73-72a8-4b5b-86c6-63cf57dfee96</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7f0a4b97-9773-40fc-ab81-622c31e215f2</Id>
-      <Type>CreatureModel</Type>
+      <Id>af5dc338-aec1-4398-b43d-5631a1a66a72</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f3dcfbf2-75a1-4931-9653-a0f484e883ba</Id>
-      <Type>StationModel</Type>
+      <Id>b2438c51-1c9e-462d-a414-b2610c7f7a07</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b590f244-bf86-44a1-a536-eea174df16c0</Id>
-      <Type>CreatureModel</Type>
+      <Id>f4ea60b2-9384-40a9-9946-b1a50478c1de</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>540232ce-77fb-4847-b8bf-c08f29b3e37b</Id>
-      <Type>CreatureModel</Type>
+      <Id>0c7382c6-5c93-4694-8623-4583799317b2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>464b2b80-1c93-400c-91c7-c572f17b5844</Id>
-      <Type>CreatureModel</Type>
+      <Id>22188ef1-2b97-4c28-ad31-7dd5861ce7b8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b14297aa-1c2d-466e-b605-f17dc0605f21</Id>
-      <Type>StationModel</Type>
+      <Id>ee63afd3-4b5d-404e-bad1-88e7b38ee6cc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3bb8842b-44ab-426b-820c-af33897c87bf</Id>
-      <Type>CreatureModel</Type>
+      <Id>967e1372-9581-447c-bee8-4e4863aaade3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8c05c827-7f19-4351-a812-428ceb1b9891</Id>
-      <Type>CreatureModel</Type>
+      <Id>9e360b1f-3ca9-42ba-9efd-0684652ee64c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>048f4d6e-8b4b-4084-a19b-532513fe819f</Id>
-      <Type>CreatureModel</Type>
+      <Id>62911d9c-1a4f-41f0-931a-2f414b1b0c69</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d520da9a-a415-4170-8a74-f8a3bccc8977</Id>
-      <Type>StationModel</Type>
+      <Id>227b4217-b34c-4c07-99c6-568c01c8b453</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6b5b86a1-a455-4ecf-9d91-43737d40437a</Id>
-      <Type>CreatureModel</Type>
+      <Id>3f692e42-eacb-4232-ae41-21cbae85085f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1af32ace-38ba-409f-9836-753748081f52</Id>
-      <Type>CreatureModel</Type>
+      <Id>83e07eb5-0486-43d7-8d2a-79d31c50d1c8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5f7d20e2-1c5b-49a1-bdba-96663e3bc211</Id>
-      <Type>CreatureModel</Type>
+      <Id>00429ed7-8e75-4c26-a492-cfa7853f6199</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ed1a3116-93da-47bc-8584-1d88b12108b8</Id>
-      <Type>StationModel</Type>
+      <Id>7fe9b517-e72f-404e-b486-d3340e52d472</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>32bb8e97-bcfc-4fc0-aea4-69515628f2c3</Id>
-      <Type>CreatureModel</Type>
+      <Id>ae86434e-ccd2-4214-ab31-08d43be769f8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9503593d-0f09-4b85-9656-0c8533c4290f</Id>
-      <Type>CreatureModel</Type>
+      <Id>cbb9bb66-9681-4ed2-8067-5c63b48a3e00</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8358e7e5-951a-457a-a49f-7ef1afe20ce8</Id>
-      <Type>CreatureModel</Type>
+      <Id>ec57459f-641a-4ee7-8720-ed59b3be1286</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>65f5fb1d-ce04-43e8-bbc0-0c3224060a38</Id>
-      <Type>StationModel</Type>
+      <Id>9e6891a1-ccae-4e3b-a624-264e3b06fa45</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>cd387167-809d-4af4-bb13-84271ed889e5</Id>
-      <Type>CreatureModel</Type>
+      <Id>8c5060d9-1d19-401d-8012-c6e072e41348</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>daf431a9-df09-46e9-a1a9-8d356b3d5de9</Id>
-      <Type>CreatureModel</Type>
+      <Id>3b075604-43b3-417e-8daa-b676cc532043</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8f2bd1ee-738b-4427-967e-1860d4fff3cf</Id>
-      <Type>CreatureModel</Type>
+      <Id>f645c608-723d-4b01-ad07-ba36b79fa77b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>88ca882c-a4cc-494b-b63f-a7578286f2db</Id>
-      <Type>StationModel</Type>
+      <Id>1fefca41-a98b-4649-a17c-d48986a5acb6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>04bc71d2-7f7f-480f-9566-5cbb3c41f947</Id>
-      <Type>CreatureModel</Type>
+      <Id>cbd05647-99e8-4771-8cce-4810dcfe38c2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3373ef23-dd85-48ba-a8eb-e22cadf031a4</Id>
-      <Type>CreatureModel</Type>
+      <Id>9488e628-c43c-4fb4-bda3-f1e22b161519</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>cad8e89a-e90d-42dd-9940-3a57d4ca0012</Id>
-      <Type>CreatureModel</Type>
+      <Id>39181367-e4a4-4dab-9993-a3d2254e960e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a0573369-3133-4072-95bd-362f8f23e759</Id>
-      <Type>StationModel</Type>
+      <Id>c39f9a68-550a-42be-a609-3ab7b1f46deb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9f43052b-29f1-480e-9aaf-d24ff7c2bf02</Id>
-      <Type>CreatureModel</Type>
+      <Id>e6181a18-7ede-44a8-bcb2-f140105c703e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e35fc5c9-1200-492a-b1aa-4769686e36ec</Id>
-      <Type>CreatureModel</Type>
+      <Id>43166dae-8ac9-4eb5-b79f-fc5a234232db</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c80284d8-aedd-4c96-a91d-0b4abdd70b9b</Id>
-      <Type>CreatureModel</Type>
+      <Id>bb4a8087-2165-435c-a2e5-fd6fe66ac706</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>92564785-4baf-4e0c-8a0c-3a41905b9979</Id>
-      <Type>StationModel</Type>
+      <Id>79299bd0-4d1f-4c14-a03a-beff837b3f27</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>98c10863-46bc-4aa9-8ea8-36ff603e1fb1</Id>
-      <Type>CreatureModel</Type>
+      <Id>8b6cd509-f08e-4118-9eeb-3e23f9644a7a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7db10d5c-ac73-4a3a-aba2-31535e7f35ed</Id>
-      <Type>CreatureModel</Type>
+      <Id>123cad93-3efa-4ebe-b612-763bb6d739e4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9051d839-8f9e-441c-8a7b-240f06cb55e4</Id>
-      <Type>CreatureModel</Type>
+      <Id>9931c4b2-6c28-4e08-87ca-c9e8d7993167</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7edda309-ba53-4c19-abb9-5818876ede28</Id>
-      <Type>StationModel</Type>
+      <Id>278d31ce-400c-4a44-8262-2011fdc1167b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4d28d7f6-c8f6-4745-b377-5503a51b329f</Id>
-      <Type>CreatureModel</Type>
+      <Id>418a4c0f-bd08-4b41-86bb-f821dc80610b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1c98e4d2-1802-46e4-a445-f725a7dbba52</Id>
-      <Type>CreatureModel</Type>
+      <Id>2383d183-9604-448c-9f6b-8b135fdde594</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>00ab9a14-fa22-47b9-b397-8da453933966</Id>
-      <Type>CreatureModel</Type>
+      <Id>1f6eec4a-1c4d-4f42-94d8-4f57fed3354f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>10248bbd-3d6a-42b3-a1e8-756d9c367e60</Id>
-      <Type>StationModel</Type>
+      <Id>7b06892c-a553-42b4-abc4-35d24c8f07c2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>41de9bb4-d362-41f5-99e0-26dd652334b7</Id>
-      <Type>CreatureModel</Type>
+      <Id>ff64692a-2a26-4e94-9daa-82b98a78fc59</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3272eb91-e2f1-43b3-aef9-99b47199ae56</Id>
-      <Type>CreatureModel</Type>
+      <Id>6c3882f3-cea2-476a-846a-19b5ebe6ebae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d23cd419-00e2-4884-a02f-f313c76beab4</Id>
-      <Type>CreatureModel</Type>
+      <Id>5929429d-02a2-4937-b5a6-a0208fb19e5e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c8f0ab22-3ed7-46d6-87ee-e8153879e4b5</Id>
-      <Type>StationModel</Type>
+      <Id>6cb39334-a12c-4f65-a165-cdfd232d7eae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>19b9873c-c584-4f99-be84-5ef152de73e6</Id>
-      <Type>CreatureModel</Type>
+      <Id>ffa21bea-530d-43dd-bac9-f3db0ac0f8d4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>57499e20-678c-49b3-bc96-cff8d7f5d3b2</Id>
-      <Type>CreatureModel</Type>
+      <Id>a58cbc6e-3035-466c-8007-f36e90f334d5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9982ca7e-e956-4227-9ef1-e239eae8a171</Id>
-      <Type>CreatureModel</Type>
+      <Id>1443ddf8-0f87-4f0b-801f-b266ebbf3bb2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2bdd5bd8-a9f9-4e6a-a05d-89accc7f9660</Id>
-      <Type>StationModel</Type>
+      <Id>d6c51e7c-7f06-4b8c-af8b-5e2ae044d2f2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9e944a73-d71d-45fa-9ec2-226c1c460770</Id>
-      <Type>CreatureModel</Type>
+      <Id>0dbcf60b-084a-4a57-82e2-e94ac445fd76</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>df706848-3e16-4d66-a5e5-b3ee35d1e6bf</Id>
-      <Type>CreatureModel</Type>
+      <Id>16658da1-c357-424c-a257-ea731d035dbb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3cd08c49-da69-47ac-9141-f44e5f252a02</Id>
-      <Type>CreatureModel</Type>
+      <Id>00d304f2-d28e-49cd-8f42-65eb969a51ff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d8a8b9eb-af03-4195-8f64-2e357c540a16</Id>
-      <Type>StationModel</Type>
+      <Id>24184512-fbdf-401a-a513-496fafbddad2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>15177831-7af5-4a19-a9bd-d832484d9fac</Id>
-      <Type>CreatureModel</Type>
+      <Id>150e219b-f83c-440f-9712-e8f0158d997d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>95174c63-9160-4fa6-afd3-796f1bd29ef6</Id>
-      <Type>CreatureModel</Type>
+      <Id>8d46970b-8f37-40f2-ab6c-da79a29ee14e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c6bc6dd9-9d0a-48c6-a02a-16edbe49445e</Id>
-      <Type>CreatureModel</Type>
+      <Id>74d67ecd-e722-4bf5-8d06-ee8670f99d64</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f4a0f9f0-a453-4f4c-9454-6f9ba64ba4a1</Id>
-      <Type>StationModel</Type>
+      <Id>1efbbec4-6f43-4239-861c-b9ae327d949a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>70776f2c-eb83-44c5-9646-8d5f34e592f9</Id>
-      <Type>CreatureModel</Type>
+      <Id>229d27ba-0543-4259-86dd-d8a82dcf392b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>02100bcf-b966-41d2-a68e-5c30c9000ff7</Id>
-      <Type>CreatureModel</Type>
+      <Id>3fa5cc18-8bc5-45af-82ac-a6dc7be4a043</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e8d370c3-367e-46ae-a6ae-1f9d2ea68b42</Id>
-      <Type>CreatureModel</Type>
+      <Id>3cfa6c6c-9d5c-4520-a340-40c5a45d2a98</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>db134cb5-f7aa-4c97-ada6-c849ba22772b</Id>
-      <Type>StationModel</Type>
+      <Id>1ad12762-87de-4cd8-af51-aa37569badd4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>48454e59-38aa-461d-9399-1d518b756f27</Id>
-      <Type>CreatureModel</Type>
+      <Id>66765abd-1157-409f-aaa9-dffced952932</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7cc406a4-81d9-40ac-817d-a3a9a12a02c6</Id>
-      <Type>CreatureModel</Type>
+      <Id>6e6d778a-c49f-47be-8dee-49e9db9bbf1b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0b3618ec-f846-4d30-b0d0-e57247023029</Id>
-      <Type>CreatureModel</Type>
+      <Id>2fd13ce5-a83d-4227-9532-461bb8327e0b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>59824dda-29ac-435b-afe8-3daf172c1d84</Id>
-      <Type>StationModel</Type>
+      <Id>e8b3fd74-3a13-4ee3-b134-24370c4dda4d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e50f6e54-acce-43e1-b5a4-4a8c6efcee4d</Id>
-      <Type>CreatureModel</Type>
+      <Id>1d98b4e6-e1e8-4762-ac11-c821e4734b09</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2eb1212e-e478-4e04-8c3b-460d860cfefd</Id>
-      <Type>CreatureModel</Type>
+      <Id>1f892c34-7495-4ce7-8db3-bd19bb414675</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>679df8c6-8ee5-4d87-8446-f2b50cfaa72c</Id>
-      <Type>CreatureModel</Type>
+      <Id>69819216-6049-494c-963a-76b4d3ec27d6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9a32351b-4ceb-4da8-9038-557f5f1d6315</Id>
-      <Type>StationModel</Type>
+      <Id>e6ae4a8f-bd60-4a95-abe9-04b9d2f7fc0d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c83e50c7-3b2b-4000-98f6-7bad8b1aaefa</Id>
-      <Type>CreatureModel</Type>
+      <Id>377c14f4-56a0-4041-b6bb-d36a6d6df470</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f03af576-2b7b-4598-a0a7-b01b20f1013c</Id>
-      <Type>CreatureModel</Type>
+      <Id>f50ee131-65c2-43a2-8696-a845961ce1e0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6b5a09de-4c25-4202-9bb0-9f32bca0c2b9</Id>
-      <Type>CreatureModel</Type>
+      <Id>7c0a818e-7e9d-4018-9f69-c78c34163549</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7e51f78b-0167-4717-ac53-a4f0d6aab568</Id>
-      <Type>StationModel</Type>
+      <Id>573a4e32-d305-4c15-b143-0dd898749aad</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>47394e27-da7a-435d-8f56-37853726f3fd</Id>
-      <Type>CreatureModel</Type>
+      <Id>937941b9-6a2e-442f-91fe-7717df7c86ed</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>87aa7045-ed8c-4079-83bb-4ed6f51c25cb</Id>
-      <Type>CreatureModel</Type>
+      <Id>7ac1b994-99b0-40f5-a6ec-2ebe8e4f8bb7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>930c9bb4-ea67-4d6a-926d-04ed9085d4d6</Id>
-      <Type>CreatureModel</Type>
+      <Id>17970f39-a7f7-4c64-8356-18eeaea20bc9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4193ef35-3ef9-4c5a-b6ef-09d03c553f42</Id>
-      <Type>StationModel</Type>
+      <Id>f2b8fa3f-ef9a-4531-b066-c0d13bb5b6cb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a2d8c69e-79f9-4098-9d45-f7a19c189587</Id>
-      <Type>CreatureModel</Type>
+      <Id>08b74f06-0497-4cb6-9fa7-50742d427d66</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8994f81e-082c-4e94-a862-8e8f87ce8145</Id>
-      <Type>CreatureModel</Type>
+      <Id>065243c9-b183-434f-968f-5bb4351e2956</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fb838f90-6395-4547-806f-73e4e1ce9f30</Id>
-      <Type>CreatureModel</Type>
+      <Id>b891201f-f770-4e4d-ae4b-c49abc229323</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>196220db-4c0a-41ed-a885-d98ccc77fd5f</Id>
-      <Type>StationModel</Type>
+      <Id>9e2211aa-c075-4deb-bafb-45c54b4ab2cb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e9a74b74-c27b-42be-994c-13eebe1aa23c</Id>
-      <Type>CreatureModel</Type>
+      <Id>e3323b36-c5a3-4ad6-9bb8-70fbf8944540</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>10348013-0fa4-414b-b132-654e012c1a4b</Id>
-      <Type>CreatureModel</Type>
+      <Id>19b891a6-8e47-464f-a25d-250ed0416710</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b4b221c7-fb00-4ef9-afe6-9a11906a6e3e</Id>
-      <Type>CreatureModel</Type>
+      <Id>df0df419-e5c2-4b14-bfe1-d2bde27f0922</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b2e918cf-ae6c-4f9e-b04b-08ca4bed6c60</Id>
-      <Type>StationModel</Type>
+      <Id>c0778139-5506-4bbb-97d2-18489a39dd5e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>905920c9-82c2-420d-b848-26fd32b9dba7</Id>
-      <Type>CreatureModel</Type>
+      <Id>782d9588-da9d-4792-af9c-0ede4b9e3fb4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d5a59cbb-a104-4a04-be9f-f79143ae3664</Id>
-      <Type>CreatureModel</Type>
+      <Id>3bb98d89-1a48-4e14-9fd8-6c1c351f8849</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bb5bc567-0851-4126-b693-501ffabe6ec1</Id>
-      <Type>CreatureModel</Type>
+      <Id>1cc25f2d-225e-4c18-bb27-70011ede3d51</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a219a52b-762e-4083-adc2-f240b8bd271a</Id>
-      <Type>StationModel</Type>
+      <Id>618e39fd-03e2-4d54-ab3f-5ea1527523a3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>cb2bd376-ce09-487e-b0b6-b028f7252075</Id>
-      <Type>CreatureModel</Type>
+      <Id>71907216-e42f-42b1-b380-1a5c0e12ba04</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>effd0994-b252-43ca-be72-bc615f72b488</Id>
-      <Type>CreatureModel</Type>
+      <Id>01129be3-93e6-4295-9a23-26f09dfb59a0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>27afc526-43ac-4ae8-b2da-3e729be0df9f</Id>
-      <Type>CreatureModel</Type>
+      <Id>fc780b1f-352a-451e-a683-04aaf6067968</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ecaaf3b8-d183-448c-a038-f94f0c4ef0c5</Id>
-      <Type>StationModel</Type>
+      <Id>47c872ae-5a64-437a-81dd-0a33e6f9819a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f2e84cdc-6b7a-43ce-a5d9-c6ee734bad55</Id>
-      <Type>CreatureModel</Type>
+      <Id>d1a3c899-9789-439a-a0f3-45ec05ca39fd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ffbd5267-c9bc-41b8-878a-46c7d4dbabdd</Id>
-      <Type>CreatureModel</Type>
+      <Id>9895ac8a-5d1f-4f56-b1de-4fe8a670159c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8d7d2e94-1a7c-422e-956b-3c2968d8a79e</Id>
-      <Type>CreatureModel</Type>
+      <Id>6b10811d-79cf-43d9-9046-9111e9f2bc79</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>da3ec3dd-2649-4d57-90cd-582fa7402cdf</Id>
-      <Type>StationModel</Type>
+      <Id>5aa7cdf7-8ca2-40e6-ae2c-5c37edc9a8f0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3f09ebc4-1cc4-4d3e-a8ae-72d1bf9a4d2d</Id>
-      <Type>CreatureModel</Type>
+      <Id>3dde35b8-b1d2-4d6d-ac22-e74903cab668</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eef5f9b6-45ab-4dfa-bf96-0ab0bb8b75b1</Id>
-      <Type>CreatureModel</Type>
+      <Id>dc5045a2-e8a9-4357-9178-17a034febc43</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>43019353-6737-41a0-96ef-6bee04dd9525</Id>
-      <Type>CreatureModel</Type>
+      <Id>951756c1-ab17-427f-bcdc-9972a08e6a5c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>55796473-91d2-4d06-a33a-1a3e81e46a68</Id>
-      <Type>StationModel</Type>
+      <Id>d83753ba-8ad4-4e8f-9bb5-f34da49b8108</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e7ac3ec1-5539-4d39-a79e-ee0e103ecdbe</Id>
-      <Type>CreatureModel</Type>
+      <Id>7c1f5d13-d45a-4bbd-95f5-e1a8de847507</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a5d037e7-a3dd-4e5a-8da7-a6adc6a8ea8f</Id>
-      <Type>CreatureModel</Type>
+      <Id>7618c404-4c7b-4628-94a1-517ce12094cd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>07b5d05e-6e85-4cfa-897c-8a0315c23e77</Id>
-      <Type>CreatureModel</Type>
+      <Id>20608c7c-beb1-4c05-8530-02902710f222</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6c5b6ca9-bb16-49d5-ab81-f18b814e8446</Id>
-      <Type>StationModel</Type>
+      <Id>75a1a2cb-57d3-4751-8edb-e4c461410961</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a5709033-8278-4344-836f-3e622279a050</Id>
-      <Type>CreatureModel</Type>
+      <Id>b7f68b7e-a036-421b-b1b0-a310c422acae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1873ec43-c49a-4c95-9b31-47379abc6b37</Id>
-      <Type>CreatureModel</Type>
+      <Id>29eb57bf-4f2b-4dcb-8a91-faf83e0e689e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5f81f07f-960f-4f9e-99cb-14c95ba80ad4</Id>
-      <Type>CreatureModel</Type>
+      <Id>d9b8b541-f4db-497b-b532-b7f0a05e307c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>159603e7-9692-40d3-a7e6-79f3d66cb533</Id>
-      <Type>StationModel</Type>
+      <Id>96c70648-9260-4733-9f8e-a51c46672f05</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bd9a21e5-66e9-4f3d-9175-9d17f86baf84</Id>
-      <Type>CreatureModel</Type>
+      <Id>6b314656-8032-4dcf-87b1-b81973bb2d73</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9475903e-399e-4066-acf1-ab9297aec000</Id>
-      <Type>CreatureModel</Type>
+      <Id>becaea13-515a-4cca-96e0-e5775c348d5d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0d3a773f-cbf4-400d-8a2e-f8fb7ca86073</Id>
-      <Type>CreatureModel</Type>
+      <Id>1f5aab2b-70d9-4b42-95e7-877d9467c97c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3de2684e-e50c-407e-adb9-592647903564</Id>
-      <Type>StationModel</Type>
+      <Id>fa0981f8-5654-46f8-8064-30ff0eac1839</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>591035ac-f17a-4979-8d05-656e2a7ffe29</Id>
-      <Type>CreatureModel</Type>
+      <Id>9804bf73-6472-4183-a51a-7fe8464319e9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>db187652-c9d7-4693-9aae-9ae8efa12fa0</Id>
-      <Type>CreatureModel</Type>
+      <Id>2b17bf67-618f-4c78-8083-318f7fb5096b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9506581f-c09d-4927-849b-1ad634ca8052</Id>
-      <Type>CreatureModel</Type>
+      <Id>1d80053b-7ae9-4616-b051-936a687f2305</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9f653b64-39fc-4a6c-ae71-9f748c23d7b6</Id>
-      <Type>StationModel</Type>
+      <Id>47b6ee93-5f7c-4f53-a6dc-4b4864519324</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1de36ae8-fb64-446a-87ad-da82bf2fcec3</Id>
-      <Type>CreatureModel</Type>
+      <Id>d43f423a-b79e-46c8-aa15-64c224cabba7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fd5239ff-4b90-4825-abe0-701e657ec6f5</Id>
-      <Type>CreatureModel</Type>
+      <Id>cbf443e0-1df9-4c5b-9247-3c0329aa8e70</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a893b952-8d8d-4152-9e0e-92a3b085c891</Id>
-      <Type>CreatureModel</Type>
+      <Id>9a1de83f-ba68-4297-87d3-2ae985f18645</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>cf4c1241-64bb-4e7e-a675-8d75c764b22b</Id>
-      <Type>StationModel</Type>
+      <Id>62b125f6-b28f-48b4-8f4e-24a70eeae67b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>df309906-dda3-42a0-8d04-1bd0063c341e</Id>
-      <Type>CreatureModel</Type>
+      <Id>4ba3f8a6-ac0d-48c3-9280-276884299ea4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2211e997-dffa-4e5c-9579-f445746fd61f</Id>
-      <Type>CreatureModel</Type>
+      <Id>db829a19-a452-4da7-9fd2-04964e45976f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b674d56b-90a1-425f-a79a-1c008e6b31ed</Id>
-      <Type>CreatureModel</Type>
+      <Id>dbccb239-19e2-4881-adc3-7c9a1da4bd50</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>efe4216f-a1a4-40f8-aec6-80ea65424067</Id>
-      <Type>StationModel</Type>
+      <Id>d9fc3f54-6a38-466a-a271-add5b93fbf88</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c828b4e0-4c2c-4c03-b2c8-e3bd7b8890bd</Id>
-      <Type>CreatureModel</Type>
+      <Id>8d31d53b-82bb-42ac-926b-1368031987ca</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>975dfd1f-5808-4501-9d39-48d5ad08514b</Id>
-      <Type>CreatureModel</Type>
+      <Id>5cc01048-39b9-41ba-b77c-a95ed23a4811</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1d7332d1-ebcb-4a6a-b8ac-b3871c36752f</Id>
-      <Type>CreatureModel</Type>
+      <Id>473545fd-54d8-4308-936c-cc992e77b6d5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eac780da-d7b9-40f7-9aed-1e173e1ee015</Id>
-      <Type>StationModel</Type>
+      <Id>0f6ba720-3a9e-4630-a2ce-9610280d6cae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e09b02b4-7aa4-43a6-9492-d39a2a8e3220</Id>
-      <Type>CreatureModel</Type>
+      <Id>8a7d534c-cc15-4961-a409-f61d607821ec</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e428cb75-2943-46ef-84d3-b83c33245a7d</Id>
-      <Type>CreatureModel</Type>
+      <Id>ed59d56f-cb70-4117-8d60-acb73e5de231</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>634a6573-40a3-4b7c-aeb9-288ae89d0d84</Id>
-      <Type>CreatureModel</Type>
+      <Id>0d4bbf0f-8cfc-4be6-b64e-3aa52d1d3ec7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b9564fd0-9f0d-4066-9fa5-492e1f38f8f1</Id>
-      <Type>StationModel</Type>
+      <Id>f99f41d0-d839-40a1-ac33-1d41edea986e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>cb86b688-d9f1-4d1b-8112-2caf149b392c</Id>
-      <Type>CreatureModel</Type>
+      <Id>f8ff4b4b-7828-40b4-967b-68ee43a55d70</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8af2a5eb-e4df-48bb-ba34-176a00ef9986</Id>
-      <Type>CreatureModel</Type>
+      <Id>017d6ef6-dc4e-4902-a2b6-68fe1678f04c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8ef1cf5d-8b7e-4190-a2cc-05610e4e300f</Id>
-      <Type>CreatureModel</Type>
+      <Id>a8c580d1-2c70-48b1-9aa3-db89c4c4773c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eecdf372-a714-4cfc-8489-1637169d92b2</Id>
-      <Type>StationModel</Type>
+      <Id>5d2edbf1-6ad9-43e9-9721-2d78c48182fc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4562b17b-aeb2-4cf0-a9b2-428bc58a9696</Id>
-      <Type>CreatureModel</Type>
+      <Id>bad00711-55c3-4165-995d-831d56fa20a2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5b339cea-98ac-47e5-901b-36cb795abbbf</Id>
-      <Type>CreatureModel</Type>
+      <Id>02e638aa-fd53-4475-a68c-fde2c2f6869c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d06d50e6-496d-4adf-b875-e0356085acab</Id>
-      <Type>CreatureModel</Type>
+      <Id>8056c4f8-aeff-4a8e-b068-ba20ac551816</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c789d788-7078-4a7e-a66c-fc3314139e53</Id>
-      <Type>StationModel</Type>
+      <Id>f1d74bad-7cc4-4399-ac4b-5d0ea59eb811</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b2d41a31-026e-49c2-9832-ecad9b2814ef</Id>
-      <Type>CreatureModel</Type>
+      <Id>d0e30de8-717f-447f-9437-343ce0b8ea94</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b2cb6fc7-3d7f-45b0-b0d1-583345689775</Id>
-      <Type>CreatureModel</Type>
+      <Id>fce29cba-bcb6-4616-95cc-adada5dd2eff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>78bf8140-3b0c-43ee-9c96-888a9dbe727f</Id>
-      <Type>CreatureModel</Type>
+      <Id>e5219ebf-3b6d-4eb6-b7e1-1e8cf2d18198</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>605b93ae-dc39-4dc4-af29-e31cd117d677</Id>
-      <Type>StationModel</Type>
+      <Id>3640f729-a680-4cac-a3f0-33f6d2122fb8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>96d679e4-4dc5-4f5e-b9a6-5d735c95bf9d</Id>
-      <Type>CreatureModel</Type>
+      <Id>f6851b6e-550f-4946-97de-1e26e5371456</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>93e6087c-7037-4d01-b285-9523bc5a6506</Id>
-      <Type>CreatureModel</Type>
+      <Id>f5417960-0243-44f5-839b-68da09d726cc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eb80638a-a2ec-4bae-a136-da1974b6db8e</Id>
-      <Type>CreatureModel</Type>
+      <Id>67fcdcfd-118f-4329-ac0a-94878d625552</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7cc961ec-014c-4110-a738-57087a976897</Id>
-      <Type>StationModel</Type>
+      <Id>a55818ad-b0a0-4182-b4ea-f181a75199b6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b82efaa9-7d0d-441d-aee8-c672ffe1b9c2</Id>
-      <Type>CreatureModel</Type>
+      <Id>2f25e584-0a9a-42ac-b322-6725c886de5f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8a9730ce-2e40-47a3-a58f-622b0ca11026</Id>
-      <Type>CreatureModel</Type>
+      <Id>a50ae797-5744-4b30-b0b7-a69b8f650c43</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2f447a0a-300a-4a2d-845c-886f4635a250</Id>
-      <Type>CreatureModel</Type>
+      <Id>b12b286b-02a6-4e34-951f-fd01a51bc126</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>07392963-3f02-433a-875e-22a016d47a98</Id>
-      <Type>StationModel</Type>
+      <Id>7b73d26f-64b4-4ace-a36f-2f4a69cab806</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5dc064bf-f963-420b-8240-d34a44dbbebd</Id>
-      <Type>CreatureModel</Type>
+      <Id>41c43d0d-4c2d-419d-8208-5a1868d4e44a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f0590082-ebd6-4bbd-8a03-6dd945533b65</Id>
-      <Type>CreatureModel</Type>
+      <Id>f9c1220a-e229-4856-8b79-99845895ab03</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3d71cc11-714a-4f61-b12d-bf5448458632</Id>
-      <Type>CreatureModel</Type>
+      <Id>22b929e4-260f-4059-a863-b21bb9dce5d2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>aba55207-f21e-4b8b-a1f9-3a0cc83b6d0a</Id>
-      <Type>StationModel</Type>
+      <Id>edda1ecb-9557-40f5-9148-a6203ecccf71</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>09a9395b-3ba5-4f9e-a9c6-a2cc56239fb9</Id>
-      <Type>CreatureModel</Type>
+      <Id>f495864a-cdf7-4c3b-a145-6c8ef9b6a457</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c14c3a3d-5a2a-4f65-aa43-004933c04138</Id>
-      <Type>CreatureModel</Type>
+      <Id>87bbe7ce-9b5f-4ff1-9a2c-39536b1fc8a7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>566cb5ae-6282-4732-b5af-8bdc7d9b21e7</Id>
-      <Type>CreatureModel</Type>
+      <Id>b8d98dca-a07f-4af1-a116-7e5b46d51229</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5cdb95cc-6526-4d95-b28a-7f0a27372e5a</Id>
-      <Type>StationModel</Type>
+      <Id>f4b66964-6cc3-487c-8c8a-fc798d9c74e7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>082dd1db-b6bd-4d57-9c8d-75a3b9ffefce</Id>
-      <Type>CreatureModel</Type>
+      <Id>ba871f6e-be5f-4d26-a59b-7e6470581ec5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>53db09fc-7581-44a3-92f1-447b2460fd48</Id>
-      <Type>CreatureModel</Type>
+      <Id>095cf9b1-91b2-4bb4-9470-da9678601e40</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>972606a6-126b-47cf-b1c7-47223e2ecd4d</Id>
-      <Type>CreatureModel</Type>
+      <Id>209cdb5b-a6b9-4af7-b190-175aca36b96d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5f8519ec-c099-4627-ab42-35534270c2f8</Id>
-      <Type>StationModel</Type>
+      <Id>155860e3-21f6-4b1e-9904-19f5c73983c5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7c70d798-a2b2-4d11-8ade-79cdd150fe40</Id>
-      <Type>CreatureModel</Type>
+      <Id>34140c8b-9095-4dff-b589-8d8d47a9b749</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>38d30cea-6e98-413b-b158-a9aa7ab892f8</Id>
-      <Type>CreatureModel</Type>
+      <Id>fad115d1-51a3-4dab-a8b8-c94b79352c0f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>26b55e25-96ea-469d-8d00-1be320c8106d</Id>
-      <Type>CreatureModel</Type>
+      <Id>a334b6c6-90cd-45bf-8ef1-a73e68d90bcb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>75a8249d-477a-4908-b504-0993690a9d66</Id>
-      <Type>StationModel</Type>
+      <Id>e1c6e916-56d9-4617-8046-0bd8c1b8f077</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4f1890d1-7447-4d89-a678-ce358603d086</Id>
-      <Type>CreatureModel</Type>
+      <Id>5b02e016-633d-47ef-9e5b-f36726345684</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7b73c2a7-9a65-48a5-8fdd-f98c382a6525</Id>
-      <Type>CreatureModel</Type>
+      <Id>e14cb401-41ce-494f-b8e9-a6b632563a6e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a4e6fd23-915b-495f-a8c2-a6fe53f4e335</Id>
-      <Type>CreatureModel</Type>
+      <Id>b6fa395c-04b2-4851-8bd6-4be8e26f8b8c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0c200e53-f7d0-41f4-b7c6-0a77c747532f</Id>
-      <Type>StationModel</Type>
+      <Id>98a55b92-81de-431f-b5b7-6ef13160b090</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4563cafa-0270-42e7-b1ad-1cc9eb954f91</Id>
-      <Type>CreatureModel</Type>
+      <Id>e62b6128-6704-4b93-89c5-1b88a9e84e6e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>800956ce-cc7b-4aa1-8b24-a443e62a137e</Id>
-      <Type>CreatureModel</Type>
+      <Id>dc7c4261-cbe6-413e-8041-e2da94b63a3c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9d9f69e9-7ef4-4aea-acc7-cb008842fc49</Id>
-      <Type>CreatureModel</Type>
+      <Id>0ff8cc05-5fca-4fc5-84ee-ec24cab0747d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e6d5bac1-3c9b-469f-be78-5072afb34240</Id>
-      <Type>StationModel</Type>
+      <Id>1a94c876-5943-4429-8e0f-38ea6b94bf62</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2728cd37-869f-420c-8a3a-b5cea04cc93f</Id>
-      <Type>CreatureModel</Type>
+      <Id>4f04324f-f068-4373-9ea6-780009b09ecf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a2cb1a49-3bf6-4a6a-870f-e2b00e923e80</Id>
-      <Type>CreatureModel</Type>
+      <Id>b47ed32c-cd01-4e6d-8b85-391c9c57f332</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8a4a5d0a-e911-4197-b626-1c357791ba34</Id>
-      <Type>CreatureModel</Type>
+      <Id>af36c27e-53c7-40e2-986a-1a3c402e0bc1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>28b002ef-a239-4236-9cb3-a79e937292e9</Id>
-      <Type>StationModel</Type>
+      <Id>e91b1845-7b23-4bb2-b474-c3b35fa8b8b6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0be5787f-c458-4138-a250-89d4ef008661</Id>
-      <Type>CreatureModel</Type>
+      <Id>7344e493-578f-4275-b07f-f4347d8d4c14</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8ecf57f0-086b-4481-b80d-ba48daccbe80</Id>
-      <Type>CreatureModel</Type>
+      <Id>5bd06876-9c9a-400a-8b79-c90147d87167</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4de0c0c1-c391-4daa-9335-aed8c1be2c63</Id>
-      <Type>CreatureModel</Type>
+      <Id>8aeabfd2-ca99-4166-8b4c-ef827dfb5b49</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6064a5a9-fb63-4c91-a5da-7e704611dcfa</Id>
-      <Type>StationModel</Type>
+      <Id>45fc3c0e-8d87-467c-8867-2935cd5b69a6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>268ecfad-8af9-4301-924b-1ddc611cf04c</Id>
-      <Type>CreatureModel</Type>
+      <Id>6060868e-7917-45f4-84e7-8a291261266e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>04578ead-8ca5-4d3b-85c3-000b49141438</Id>
-      <Type>CreatureModel</Type>
+      <Id>b28d244d-da45-4187-80d5-a9e9d500236b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>dcac5d0e-2bdd-4890-bb89-7c02ef02457d</Id>
-      <Type>CreatureModel</Type>
+      <Id>a46daba0-af9c-470e-97da-123acca9e422</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e9b783b8-ad85-460e-b806-2de6c068f6d8</Id>
-      <Type>StationModel</Type>
+      <Id>e8c3fe8d-17cc-46ba-882e-8502e1c23a26</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>988af55b-5d81-4ccb-9c50-45e2c1f502f2</Id>
-      <Type>CreatureModel</Type>
+      <Id>082d593e-6fcc-4949-8baf-bd5f8adf74cb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0c058a94-1be6-4822-91bb-fac430159815</Id>
-      <Type>CreatureModel</Type>
+      <Id>07cfeed7-d21b-4acd-bd3d-48ae2775b726</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bc349c9c-c94a-4b76-9777-d705e0a1c43e</Id>
-      <Type>CreatureModel</Type>
+      <Id>b7dacca7-2b13-4887-b223-e20dfa8a67ca</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>517be781-b80f-4012-8c06-7038e887ae81</Id>
-      <Type>StationModel</Type>
+      <Id>f011a239-61d5-456e-b68f-abb5a2cbe19f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>73b8095a-b734-4cd7-90fb-755639239249</Id>
-      <Type>CreatureModel</Type>
+      <Id>aa1ff87e-89ad-44bf-ba50-b50d4818b3e2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f28e52fa-6756-40d4-8c21-43c6365e04f7</Id>
-      <Type>CreatureModel</Type>
+      <Id>2fb0aa5d-0f0b-44d7-a1a7-53e0769d8975</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e9ed3675-18f3-4d3f-9806-c8f11b1ea36d</Id>
-      <Type>CreatureModel</Type>
+      <Id>85c093ae-351a-4660-80a8-6bffc3221995</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ea420659-9944-484c-909a-cc932fcc7910</Id>
-      <Type>StationModel</Type>
+      <Id>a5c00409-f762-400a-a961-3d7d9bc0bc9b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6e63f8c0-4cf2-4c73-bd4e-aa5cc96d9666</Id>
-      <Type>CreatureModel</Type>
+      <Id>2768c3b3-521b-48d9-a4d2-0b305dfdd1e2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>158f7aa5-2f00-403f-b785-c71d1208b932</Id>
-      <Type>CreatureModel</Type>
+      <Id>23284d57-729d-446a-a4ec-75fdb113e70a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>726fba11-2ab5-49f7-90ee-324195dc3efe</Id>
-      <Type>CreatureModel</Type>
+      <Id>7dead5b1-a0c3-4493-8728-11c5a3f9b5f0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bb17fc67-c6e3-4eb1-b086-05486890e980</Id>
-      <Type>StationModel</Type>
+      <Id>81ec2d22-b47e-43ad-a91c-36b890bfb15e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>99b5591d-dda0-4300-bc88-7a9efe1b1862</Id>
-      <Type>CreatureModel</Type>
+      <Id>6a37799d-6dd3-46ba-994c-37a762ad194e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fa2ec5e9-324b-40c3-8d4d-3240d7034453</Id>
-      <Type>CreatureModel</Type>
+      <Id>39085065-3a2b-47b1-baf5-edba4b7e1a48</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>61f8e5b7-3db9-4fec-809e-9d58417f6d5a</Id>
-      <Type>CreatureModel</Type>
+      <Id>41e51fe5-f976-42b7-bcfc-b8baccd13f34</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5ff46f53-d1f6-47c0-914f-dd239150f706</Id>
-      <Type>StationModel</Type>
+      <Id>bc8692f7-4972-4e68-9639-d1c1e7c14b69</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>682cb4a8-9db2-4601-b8b7-0c0c087b04f6</Id>
-      <Type>CreatureModel</Type>
+      <Id>8e2e2ffb-8654-4e99-b3b6-771baaf64926</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>289e1268-b91b-4394-9390-cdc375b95a1f</Id>
-      <Type>CreatureModel</Type>
+      <Id>aa551b82-e485-425b-b566-8b64d56f523e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5a30629d-1f15-4c93-a721-b4ab9e338798</Id>
-      <Type>CreatureModel</Type>
+      <Id>b8654ed7-6b6d-417f-9819-001ca3f43259</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4b3e1e44-639d-4270-8f41-5c7775bbb060</Id>
-      <Type>StationModel</Type>
+      <Id>dbc8091a-75f1-4ac7-a28c-339578ed629c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8d577ada-e2f2-4196-9296-dac5d79e589f</Id>
-      <Type>CreatureModel</Type>
+      <Id>1d2e1f95-6dc4-426e-a2b2-2ed7155b3017</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b59c22eb-afac-40a7-b12f-89f5004a4eeb</Id>
-      <Type>CreatureModel</Type>
+      <Id>cb792bc8-e9be-4777-96ae-4d2aa9959a15</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>74099b60-d69b-41f6-a32d-6e12f3e6b3a0</Id>
-      <Type>CreatureModel</Type>
+      <Id>e61f59b6-7571-4b92-8128-aed383638d2f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>85e0c9f9-5fcf-4c60-a228-4592921c5df6</Id>
-      <Type>StationModel</Type>
+      <Id>46d71fd1-7e06-4620-86cf-e6a10a8bc3aa</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>dd6130ed-fe4d-437c-94f7-be895995f297</Id>
-      <Type>CreatureModel</Type>
+      <Id>42517234-f7b4-4f8d-b9c4-e1b2e147f6fc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>08f723e8-4d93-4c6d-9a65-c588b5f1cd1c</Id>
-      <Type>CreatureModel</Type>
+      <Id>c7e7f59d-bb76-4c93-8de5-27bc2a98cb59</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>63e82792-994f-42b1-a2e5-34dd600997ee</Id>
-      <Type>CreatureModel</Type>
+      <Id>84962dad-aecc-4e15-9f75-0d40dfe656c4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f47c5ed5-deef-461c-8619-c4d87604b6f7</Id>
-      <Type>StationModel</Type>
+      <Id>7390b492-218f-4cf6-90de-c12b890e11ec</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>54de6f3f-bb70-4299-9b7f-e5d232df5d73</Id>
-      <Type>CreatureModel</Type>
+      <Id>5f3233fb-5cd8-4383-8243-25aee2766b5e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>601f85d1-3cfd-45b0-8c6d-ccabe732f493</Id>
-      <Type>CreatureModel</Type>
+      <Id>08c8e21e-5cf0-4da0-b1d7-f3dee43fb1cc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d2d6c869-b421-41d6-81e4-07e057501370</Id>
-      <Type>CreatureModel</Type>
+      <Id>7265fc68-0f43-41fb-b2de-873b8f1d3a8d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4c8bdccb-fb15-4467-9d37-0fff123475a6</Id>
-      <Type>StationModel</Type>
+      <Id>0b38a38d-2020-47e7-ae69-ae73513767ce</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>aca4415d-6c76-44ed-bf92-0b004ee04067</Id>
-      <Type>CreatureModel</Type>
+      <Id>84858b89-d0b9-4ad6-ba55-bc4732dda9c0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b543fc4f-0573-45d2-9b7e-74ffa4876e6d</Id>
-      <Type>CreatureModel</Type>
+      <Id>b07ee56b-5444-4829-a1dd-343c5877b9e3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7e5ec271-c3e8-42d5-9af1-8cf20e873df0</Id>
-      <Type>CreatureModel</Type>
+      <Id>4c211f06-d822-4358-965a-120dbb30fc96</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c03275cd-42cc-42a6-bd6d-5dbbd0a4619b</Id>
-      <Type>StationModel</Type>
+      <Id>d0c18874-24c6-4c2b-bcd3-890d8a154875</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f74ec7dd-b849-4d82-9f62-d6673d960abc</Id>
-      <Type>CreatureModel</Type>
+      <Id>2ef9fb8e-b2ba-4578-bd92-ab2524242e12</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>88e742bc-d7e5-4e3d-b7cc-3a9cf813beb2</Id>
-      <Type>CreatureModel</Type>
+      <Id>631f970d-df0e-4047-a3eb-83774c9a75b1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d62c44a9-4b43-4cf1-98bc-2c52fad96b7e</Id>
-      <Type>CreatureModel</Type>
+      <Id>4a3002d3-b50b-41e7-bf14-5f6803230a41</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e3e17d41-e802-433a-8275-36d3a1d44724</Id>
-      <Type>StationModel</Type>
+      <Id>cf62fc0a-6a9a-4f5b-a300-922741bc6cd2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d0ce9647-bed2-4ceb-afa3-ac9ea440ef62</Id>
-      <Type>CreatureModel</Type>
+      <Id>f86e5d87-65ba-42e5-9cbc-b0ccd2598349</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eb4c1bc5-2aa5-41d3-bb3f-fa28e73decb1</Id>
-      <Type>CreatureModel</Type>
+      <Id>772cd5f0-d11e-4378-b64f-ba31892b3338</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>257f8f0b-3c6c-4f9b-bb58-ef4b6366c1c3</Id>
-      <Type>CreatureModel</Type>
+      <Id>c0f4cc21-ac6c-4fde-8f8d-5b19a9378cc9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>04fe3877-43bc-46e3-98aa-36a4e5bcc3b0</Id>
-      <Type>StationModel</Type>
+      <Id>2b307217-bd1b-4197-b189-a60318681eaf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>042866e2-091c-4b6d-aa58-2ff52931e5ec</Id>
-      <Type>CreatureModel</Type>
+      <Id>9954edef-d9f6-4ab0-8d0c-f621bc75dfd2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1e5d5181-e8ee-48f1-afa7-5884090dbdd2</Id>
-      <Type>CreatureModel</Type>
+      <Id>6824b0be-53c2-4d7f-8ab6-2cef82d5207e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3f629d9f-1cca-46e7-b6a7-67ab09a53d6f</Id>
-      <Type>CreatureModel</Type>
+      <Id>e73f2e8e-5e59-41c3-ac23-218aba282135</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eb16fb61-1bcb-4bd9-82bc-8798637fe07c</Id>
-      <Type>StationModel</Type>
+      <Id>d6dba824-67a3-47d2-89cf-d71706214bf8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>86a22333-24e3-40f4-8ad6-2ace2b463300</Id>
-      <Type>CreatureModel</Type>
+      <Id>7c372fad-0934-43c5-bf06-5fd4fab6f148</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d53e6dd4-2063-4010-b0d1-91774f22319f</Id>
-      <Type>CreatureModel</Type>
+      <Id>407fed4d-bcbc-42ef-98b1-96a836caef48</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ca33b598-ae08-41fb-915b-3eb20c6dbcde</Id>
-      <Type>CreatureModel</Type>
+      <Id>96e5e760-b35d-4190-8c22-16de3578da06</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a5f172a4-6937-4e1d-a174-b5e24ac6a613</Id>
-      <Type>StationModel</Type>
+      <Id>7fb6629b-f913-49f5-9b10-6c79cd965153</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8dc8e786-6646-40c0-be47-77ef0cfbd471</Id>
-      <Type>CreatureModel</Type>
+      <Id>e2ccce9b-c0c0-496f-a200-fc62470135f0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9193a1f6-75f8-4af7-a911-a6d5db583792</Id>
-      <Type>CreatureModel</Type>
+      <Id>12718cf7-7977-40ba-ac91-f0e1f2eaa2ac</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>55b3fb0a-fbb9-49c4-a7d9-f7703fca8211</Id>
-      <Type>CreatureModel</Type>
+      <Id>de409745-09f7-4a90-a17f-3f61b47c9dff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a38c9716-3005-49c4-80a1-a7e37f72b3a0</Id>
-      <Type>StationModel</Type>
+      <Id>0c648c00-ff12-478c-a4c1-3d4e53290c56</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>283a17b2-5282-4486-ad43-d96ce67ee0c7</Id>
-      <Type>CreatureModel</Type>
+      <Id>2c32e2d5-bce9-47e6-8c4b-e74278c73e5b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>41db3e77-9ba2-48c3-ad25-ae049321f349</Id>
-      <Type>CreatureModel</Type>
+      <Id>35bb8413-0f72-4caf-9b98-b45e15955086</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3bad0ceb-ba0e-4753-bbc2-2be0ec4aee0a</Id>
-      <Type>CreatureModel</Type>
+      <Id>172a7ecd-dd9b-4813-b5bb-9f3903b1e68d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c104e1c9-cca9-43c3-aa60-5fbbdb0e5c51</Id>
-      <Type>StationModel</Type>
+      <Id>f2820373-2561-4a70-8588-69528500b74a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>766713fe-18c9-4c07-a427-859bc2b5220b</Id>
-      <Type>CreatureModel</Type>
+      <Id>fea61ff3-c255-468a-8b40-0907edcde76d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>350c48bc-0bd8-4dbf-9668-0e05da3a2845</Id>
-      <Type>CreatureModel</Type>
+      <Id>375a5ffd-5bdc-4555-b563-04c3ca33f27d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>94c92631-ec84-432c-8463-5d30e10f7bde</Id>
-      <Type>CreatureModel</Type>
+      <Id>2356f72f-d28f-4b01-9e6c-aec5700a4fa5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>249ac34f-d1a6-460b-bd60-031915529580</Id>
-      <Type>StationModel</Type>
+      <Id>38a59b3c-5eb0-422a-bba1-445bb96dbc27</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fd6757ec-06af-41b9-afa3-59b5e8e33d49</Id>
-      <Type>CreatureModel</Type>
+      <Id>93c2d2dd-145a-4e77-9889-4163373d45a4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>515a3cf8-c0f6-4846-b988-0fd3e27bb792</Id>
-      <Type>CreatureModel</Type>
+      <Id>e72ef167-bafa-48ed-9116-cdb9e1f879b8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>dd60e9d1-02a9-4458-a91d-e3e0932f2ff9</Id>
-      <Type>CreatureModel</Type>
+      <Id>6887d5a2-56d3-4964-b795-28951c0f5834</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>814c96fe-3593-44c4-ae55-4649e541cf86</Id>
-      <Type>StationModel</Type>
+      <Id>a2d3e72f-bd02-4cd1-ad34-655b2876db0b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2b828279-a926-471a-beb7-36bce832cdc6</Id>
-      <Type>CreatureModel</Type>
+      <Id>3aa32182-ec34-4912-ac03-9ed279a1c400</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fa9a54d2-569f-4839-9136-9a13e39c77d9</Id>
-      <Type>CreatureModel</Type>
+      <Id>0ac6d039-038e-4d63-906c-984b9cce2c63</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7ab34724-8ee8-426b-a3c9-da7555920e49</Id>
-      <Type>CreatureModel</Type>
+      <Id>016c0568-9e48-4c87-b8a8-dde5ae95d7ce</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1aa9ec71-2243-40ed-8750-c469546555f7</Id>
-      <Type>StationModel</Type>
+      <Id>1c6631b4-0437-4d65-95fc-0454c1fab62b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>53bb0ec4-0642-46c8-b5e7-effc0e1cb16d</Id>
-      <Type>CreatureModel</Type>
+      <Id>812d1ef0-5593-42d8-8963-6d0142eb7ebe</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ef4f2732-0d71-4c50-860e-f17f46605d51</Id>
-      <Type>CreatureModel</Type>
+      <Id>359e6e5b-b981-4145-82b7-46b4b07720fc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1d3edd20-246c-44c2-9e32-b709466248e2</Id>
-      <Type>CreatureModel</Type>
+      <Id>1e8cb963-d9f7-4934-8f09-caf284ef5523</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>66995c2e-6726-4f47-8934-7343a5586a6a</Id>
-      <Type>StationModel</Type>
+      <Id>43411af6-c0d5-48be-91b4-f4dba766579f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0cc20f7a-c32c-4f7d-a069-bd7ed628ab91</Id>
-      <Type>CreatureModel</Type>
+      <Id>b9c9f141-017b-44c4-8556-6d72bb0d04a0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2f4bdebd-afcd-453b-a61f-f72c0e6843be</Id>
-      <Type>CreatureModel</Type>
+      <Id>f600ab9b-e82f-4c81-a812-614a0266f522</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>43da0aa5-23e7-4696-8f2f-81088f3d9465</Id>
-      <Type>CreatureModel</Type>
+      <Id>23c1613d-0795-47f6-8701-a7153c325263</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>82606617-c1c4-43eb-ba14-25228ef09bc7</Id>
-      <Type>StationModel</Type>
+      <Id>ab182535-b133-43b6-ac73-32583703d8aa</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>96bc5bf4-ae09-42df-9937-4b7f4bca26a2</Id>
-      <Type>CreatureModel</Type>
+      <Id>0879d186-0055-4930-8881-43b78d50ea02</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a2659229-db9b-40b7-bb9c-00871ba57ff5</Id>
-      <Type>CreatureModel</Type>
+      <Id>4e0a7f47-2c95-4a7e-96c4-9a7742b808dd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d325fad1-e892-4322-9764-cad55edf4115</Id>
-      <Type>CreatureModel</Type>
+      <Id>bec2bf23-4f15-47eb-a9d7-eb265563120b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2bdda04d-e1d4-4a73-9be7-97756d3f6c2b</Id>
-      <Type>StationModel</Type>
+      <Id>db2012b4-2e56-4189-b92b-707de51eacb3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6932657d-2acc-458c-b8cc-b3c70985e88a</Id>
-      <Type>CreatureModel</Type>
+      <Id>56d59d9a-9d28-4b97-a6e4-d7f897d7129d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3b408748-7267-453c-b4c9-f80fe05ef367</Id>
-      <Type>CreatureModel</Type>
+      <Id>bb2fd97d-674e-4464-981e-de65ef5bc311</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7c001a65-7562-4eee-9cab-538689eadf15</Id>
-      <Type>CreatureModel</Type>
+      <Id>bd0181eb-6162-4fbb-84fa-a4fc51c67621</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7ebdc5e1-c4fb-4b1e-91e3-b29c4f35024a</Id>
-      <Type>StationModel</Type>
+      <Id>22a25ac2-e5cc-42cf-aae1-7c4f8d3f2ebf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>446242d5-926f-4a9f-80cb-0401695c961f</Id>
-      <Type>CreatureModel</Type>
+      <Id>819ac81e-06f5-42da-a65b-f3dcef47e240</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1a63676f-a224-469d-920b-0c9a59e6bc1e</Id>
-      <Type>CreatureModel</Type>
+      <Id>a9b1a877-c829-4c33-8e84-6257e29c7167</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0bde9531-446b-44a0-970a-a4d81ac094fd</Id>
-      <Type>CreatureModel</Type>
+      <Id>903772d0-b3c2-412e-a9ab-45bf300df300</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f574836d-a224-47e9-b80e-f7e8c57cf16c</Id>
-      <Type>StationModel</Type>
+      <Id>b6e4ab81-a627-4bfa-846b-4b1419291b14</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c6fbdee9-1f50-41d7-8f00-18b5a93fc9c2</Id>
-      <Type>CreatureModel</Type>
+      <Id>cbdcc7df-dfec-4b24-99d2-bc039c42bd64</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>801315a3-69ca-4d6e-89af-30a052226cf8</Id>
-      <Type>CreatureModel</Type>
+      <Id>e095c758-c227-43a7-958d-0f6ed87c80f2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0e937bfe-8543-4e18-a931-bd7000d30189</Id>
-      <Type>CreatureModel</Type>
+      <Id>29173d86-a51b-46c5-abe9-2122a8d5ed08</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>acbcdac4-083b-4642-bdac-88eb73e43260</Id>
-      <Type>StationModel</Type>
+      <Id>fc0cae7e-83e9-44ca-ac76-5de6eae652be</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8c3dadf9-4861-4f6f-94b9-bc9cba3b14e5</Id>
-      <Type>CreatureModel</Type>
+      <Id>f4c131b0-cac3-417a-9931-d165cc99f94a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>903bd8ef-de8d-41b8-8f24-522cd4bdab95</Id>
-      <Type>CreatureModel</Type>
+      <Id>5f83a517-4f40-41f8-ade9-b6c65dc7149a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>086bce2c-4977-43bb-af13-a604c7b3e8ef</Id>
-      <Type>CreatureModel</Type>
+      <Id>e9c5ea3b-fee4-4381-871d-c7d76c65245d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c0c485a4-8da9-40c9-80b9-1d2a19743574</Id>
-      <Type>StationModel</Type>
+      <Id>c4a819ba-232a-4c84-ada2-5a37cb5330ce</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>dd5f204d-5667-46e1-ae91-a40d00246cc6</Id>
-      <Type>CreatureModel</Type>
+      <Id>977cc86c-00cb-4dcd-9af2-c27d9cf2fa01</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0e88331e-3338-4a64-9682-48e238755213</Id>
-      <Type>CreatureModel</Type>
+      <Id>f8f8abda-57db-4915-93d0-e4160c59e174</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4f5998f6-bcbe-4ee0-83e9-7abc0461d867</Id>
-      <Type>CreatureModel</Type>
+      <Id>89a46724-19e5-424f-a99b-05dbeaf83953</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>75e7d035-8b55-4871-b50d-ae3e2e361383</Id>
-      <Type>StationModel</Type>
+      <Id>efd6e23a-f9c0-4883-ae2b-36a5efec4ae2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>17f2c5c0-5e2c-4915-833a-9eaeaea2993e</Id>
-      <Type>CreatureModel</Type>
+      <Id>a041f20d-2abe-4571-ae4b-f5c102706d6f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8deb604d-31cf-4005-91d0-912b09cfdffb</Id>
-      <Type>CreatureModel</Type>
+      <Id>229347e6-0857-404c-a035-afd1e933579b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a394488d-d8c2-48de-ac15-cf8b90b4548e</Id>
-      <Type>CreatureModel</Type>
+      <Id>b10cfd08-1285-4e05-b2f0-eb246a941a89</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6fe2986f-04f6-4de7-8cb5-78e7a81350ba</Id>
-      <Type>StationModel</Type>
+      <Id>564a1a93-93f4-43cd-961d-cc49c858e47f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a47581cf-d596-4150-9eb2-b096917ae4e2</Id>
-      <Type>CreatureModel</Type>
+      <Id>54794173-6e4f-4565-8fe3-6f6abba57e6f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>71894afa-a0e1-4711-a58a-9bdca19f9725</Id>
-      <Type>CreatureModel</Type>
+      <Id>bcd0f6bc-4fe0-4151-8394-85f19189adcb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3e39a95c-cf9e-4b1c-954a-d56b5f3c91a0</Id>
-      <Type>CreatureModel</Type>
+      <Id>ce3abafd-79e4-464f-932c-6565693c5e4f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4cdd95c2-5cf0-4c96-892b-4a412f2511f2</Id>
-      <Type>StationModel</Type>
+      <Id>11be4882-8be2-4f65-9f09-fb2276d3e463</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b6f52706-a8c4-4a93-8e0e-b49c78b98c46</Id>
-      <Type>CreatureModel</Type>
+      <Id>b27fbaef-d7f8-4e47-9df7-b325b14993e1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>456063bb-b9c8-4343-ade8-17823fdb8ad1</Id>
-      <Type>CreatureModel</Type>
+      <Id>4ff7e2c3-fffb-4a5e-8dad-25b89aade098</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>58ffe3d5-7032-4182-972f-af11ea68d07f</Id>
-      <Type>CreatureModel</Type>
+      <Id>db2d6e80-266e-44df-95f5-e0230a532f76</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>160a793b-5cb5-4574-ab9f-9d1fa88f9aaa</Id>
-      <Type>StationModel</Type>
+      <Id>3537dd00-aa08-4864-bbe4-b636e3e0f8c9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bd0b354f-5fc1-4112-aed0-def9e9af95c4</Id>
-      <Type>CreatureModel</Type>
+      <Id>1240f5be-cf27-4ce6-af90-bd1fdf7d56d0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f237287f-0dac-4780-9022-e13ccb34e609</Id>
-      <Type>CreatureModel</Type>
+      <Id>9960b478-90bb-4918-86ac-9689855e4b8a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0ee95aa1-ed33-46f7-8feb-dde2c55c4e0a</Id>
-      <Type>CreatureModel</Type>
+      <Id>a3f22f6c-b0d0-4b2d-a0ca-178bf2eb8529</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a559380d-e4a6-49a3-a072-8ded94a93e51</Id>
-      <Type>StationModel</Type>
+      <Id>2945cc6a-ff42-4d13-bf96-ac1aaed5604e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b07e7a33-c82b-41f2-a5a7-d764c13f49a7</Id>
-      <Type>CreatureModel</Type>
+      <Id>7475ced6-c940-4bdb-9f24-37b0923cfbed</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7beb8203-1729-4970-97b6-5f86f2dd52ec</Id>
-      <Type>CreatureModel</Type>
+      <Id>76e316ab-7fdc-4bde-a7d3-dfe87fdd88cd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5b49f7e1-9638-4403-80cc-c370119fcae3</Id>
-      <Type>CreatureModel</Type>
+      <Id>53896ab0-a792-4707-a4d9-f78bf14e9595</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>df464476-b7c4-45b8-8fac-ef3f0f8f5711</Id>
-      <Type>StationModel</Type>
+      <Id>3b30d71d-fc2c-4b20-928e-e8a6690bf8cb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9376bdf4-f07a-4abe-8254-431a25edc776</Id>
-      <Type>CreatureModel</Type>
+      <Id>60f57f8f-8800-4cf9-ba46-63a8c9290705</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>793fc30a-eca0-4648-b182-d064815ddad7</Id>
-      <Type>CreatureModel</Type>
+      <Id>260a4ba6-53be-40b5-9d13-f1ec303755e9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>781b0756-0c15-482e-b567-18bbaaef9d59</Id>
-      <Type>CreatureModel</Type>
+      <Id>1e2589d6-858e-4db7-8314-e6e389e00800</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a98eb224-4f1b-4d60-bcf0-0962cbda065f</Id>
-      <Type>StationModel</Type>
+      <Id>8ecdac4b-7f76-418c-b078-bbceba26925d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7295ea61-0fa4-43c4-bba0-cd5de061378f</Id>
-      <Type>CreatureModel</Type>
+      <Id>c5917bde-cf5e-4b58-8b5b-5c0b1f9d0693</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>62c403b3-b4d1-47c1-8e3c-f13b84fe7019</Id>
-      <Type>CreatureModel</Type>
+      <Id>59ede9e8-cf04-4fc8-b849-57bd9c812cee</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c94e5338-ca56-48f3-ac46-a1b2cfb7fda6</Id>
-      <Type>CreatureModel</Type>
+      <Id>a577b0c9-cf9a-477c-816a-9e0a5547ecb8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>86cb7081-c385-4802-a071-6418673aa5a9</Id>
-      <Type>StationModel</Type>
+      <Id>d6d1ba5a-1e73-48ee-89fe-bdc3bec9643c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f7f626d3-f1e9-4544-9f75-a794c565de90</Id>
-      <Type>CreatureModel</Type>
+      <Id>decc75d1-cfa9-412c-aa25-e5ddb4d41e5c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e6544331-de15-4b53-ac99-0b4cf797d599</Id>
-      <Type>CreatureModel</Type>
+      <Id>cd5c0688-3936-4ea9-8ebd-1b9e4685f8b0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>84956e0c-fb4c-444e-8032-1c43822d757c</Id>
-      <Type>CreatureModel</Type>
+      <Id>4a8f3be0-cb46-426b-aefd-c51ea1f5171e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>58a3403f-1aab-4558-a1b8-97198a7788e1</Id>
-      <Type>StationModel</Type>
+      <Id>0fb099c5-8a95-4bfe-865d-e12de0a98765</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>df9ddeca-a470-4067-ad48-19a3208c722a</Id>
-      <Type>CreatureModel</Type>
+      <Id>27b48a44-a31a-4e9a-8ebf-5eb9a92ebd4f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3a31a263-9ec3-435a-9090-a2dd84f8c554</Id>
-      <Type>CreatureModel</Type>
+      <Id>2e76bbf9-a36e-4045-ab0c-02f7910c8745</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9ee77260-6e0a-4051-859e-88193354a3fd</Id>
-      <Type>CreatureModel</Type>
+      <Id>74e539a7-94e3-4f77-9e93-6fe633ef0eaf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d992c64a-475b-40f9-95fd-50b51fad1257</Id>
-      <Type>StationModel</Type>
+      <Id>9a4369fb-57e1-4ef4-bf6d-aa7121cc7521</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0136797f-daaf-4c2f-a4fe-ed8c228d5d1e</Id>
-      <Type>CreatureModel</Type>
+      <Id>36b5f2f3-79f4-441e-b4ff-e883c352936b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>39293b1d-4dec-4224-b896-5130120048d9</Id>
-      <Type>CreatureModel</Type>
+      <Id>32f2358e-e00a-48d5-974e-de1e025ce572</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>22f9632a-dd6a-4f51-986b-f6eae56c1186</Id>
-      <Type>CreatureModel</Type>
+      <Id>1f397999-c8e7-4a1d-b4db-b43a57d55fc2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d4b87194-50df-41c5-8a9b-985bc0cd9342</Id>
-      <Type>StationModel</Type>
+      <Id>ebe13d0f-8c1a-4cf1-a980-b409f295d431</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>804096b8-f2fe-4043-8bfa-71ab6a94a415</Id>
-      <Type>CreatureModel</Type>
+      <Id>ce46f3f5-4c6c-4481-9a54-f0a9ba3d69d2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>98d4d106-11c8-4809-ae59-8b61e4205850</Id>
-      <Type>CreatureModel</Type>
+      <Id>77c9b22d-baa8-4e99-a408-eee285c8ca2a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b63f7230-555d-4cf5-92a0-aa19ec361ab4</Id>
-      <Type>CreatureModel</Type>
+      <Id>fecc1d44-6ad0-410f-9b9d-c939fb537046</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>53801258-1682-4a2c-9bac-f23be99a32a0</Id>
-      <Type>StationModel</Type>
+      <Id>37002183-2225-46f0-ae5b-af97c434f428</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5cbdbf6b-e0ee-41c4-bf2c-445cfd58a0c5</Id>
-      <Type>CreatureModel</Type>
+      <Id>e9f650f3-c917-4e63-96b9-815659bfd683</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f72d781d-18a1-4140-bd7d-b0199e091391</Id>
-      <Type>CreatureModel</Type>
+      <Id>9f72ddf5-e206-41b8-84de-21e6baffa243</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6778534a-73f5-43d6-a1b9-01b5efa8f33e</Id>
-      <Type>CreatureModel</Type>
+      <Id>529afc5f-2cae-493e-aa36-37086694e192</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6879624d-7f08-45df-b352-6edc920ce404</Id>
-      <Type>StationModel</Type>
+      <Id>37c332a2-2be8-4c22-9ba1-ad21caa2ea3f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>75c39a6f-3c01-4b59-bc2c-5d561ecb8418</Id>
-      <Type>CreatureModel</Type>
+      <Id>32606d20-1801-480a-b365-ad7291091d4e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>83edbd4c-5ca1-498f-968d-c7304d0ce9f4</Id>
-      <Type>CreatureModel</Type>
+      <Id>f568d881-9064-447c-94c5-7f663e005060</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f8c1c662-08ae-4f54-9a6e-319db2a50bec</Id>
-      <Type>CreatureModel</Type>
+      <Id>be844879-0d5b-436c-afed-558ca0bf6a82</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7dfd13ed-f38e-413c-b7e9-224581e8ba77</Id>
-      <Type>StationModel</Type>
+      <Id>4f5befae-13bf-4468-a0b0-bac909df9553</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>516c0903-1ca9-4b86-9ad8-a3831aa19fc5</Id>
-      <Type>CreatureModel</Type>
+      <Id>8e3c03c2-6d3c-4fbe-8c49-f4c6b5d90ee1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9b26145b-893e-40e2-800d-838502d02e28</Id>
-      <Type>CreatureModel</Type>
+      <Id>13f7538f-766b-4b73-a520-9f47b7638054</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3a66fa0e-ba56-44d7-8ccb-4dd8119a11a6</Id>
-      <Type>CreatureModel</Type>
+      <Id>ae9c771d-5481-4fdc-989b-aca971a9e435</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6e68ef8f-a27e-47ec-ac20-e385d4bca293</Id>
-      <Type>StationModel</Type>
+      <Id>96f0a3cf-9f5f-4077-a9d3-b9b989c56247</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>848fd3a9-bc0e-4dd5-97ba-efe9d1373434</Id>
-      <Type>CreatureModel</Type>
+      <Id>3ff86873-1216-4b5d-a258-788fef9aba42</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9fb739e0-984f-4e5a-aefb-b021cc51d2ff</Id>
-      <Type>CreatureModel</Type>
+      <Id>5adf99a2-517f-4b91-afd4-1ed91e1e5f32</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b28f8867-32bb-431a-ba9f-0e43de1d6a0b</Id>
-      <Type>CreatureModel</Type>
+      <Id>6a8e05f9-5f4c-48b1-a9e1-0f1bf9651c43</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b7d8c807-e79f-4334-80e9-7c8a62b610ca</Id>
-      <Type>StationModel</Type>
+      <Id>5fde4744-af1f-4d44-a8b1-20b6541bba50</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c6f7906d-c54d-46c6-84de-d2a15bc61689</Id>
-      <Type>CreatureModel</Type>
+      <Id>0f03cd34-bdd5-44bf-a618-1512e7024216</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8c34abcf-1bc5-4b7e-9713-d8f67e342c24</Id>
-      <Type>CreatureModel</Type>
+      <Id>7e5b934b-225c-4ea8-844b-11b4d56e3143</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2996e269-bdc9-4d88-a733-e93b559fead1</Id>
-      <Type>CreatureModel</Type>
+      <Id>086811f6-db98-4339-b511-53f1bc74bcde</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9488547d-4851-4fcc-928d-ccf6bc02682c</Id>
-      <Type>StationModel</Type>
+      <Id>834981d7-5282-4024-a009-02e919ce9e61</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3b60e069-b452-4a42-94b1-2c3117b1e1a9</Id>
-      <Type>CreatureModel</Type>
+      <Id>de4a9e4e-9e8a-4c95-9548-49851d77d6ef</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0d5692cc-5180-4417-a47d-5aa80aecef3b</Id>
-      <Type>CreatureModel</Type>
+      <Id>d348b0d8-4aae-4541-ab13-3a8e94b86801</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fa4eee96-c817-4e1f-aff8-c817a0b3ef59</Id>
-      <Type>CreatureModel</Type>
+      <Id>6f1ff214-5ac7-464a-a6fc-9e49d4ad1e11</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>653ea784-d3e0-469e-9d4a-5643e00f1854</Id>
-      <Type>StationModel</Type>
+      <Id>47e16551-f6cd-4565-8237-c290ed738aed</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4009e522-360b-4c4f-afeb-e9972eeb5065</Id>
-      <Type>CreatureModel</Type>
+      <Id>76a7eb3c-61ad-45c7-a258-27cc0765d83d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6dd25092-7f49-41de-9b68-229df61ab595</Id>
-      <Type>CreatureModel</Type>
+      <Id>129efba0-2de7-4f25-aa39-78b94bb3da2a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2c389dc4-fe9f-4438-be1e-5af0452e4d9a</Id>
-      <Type>CreatureModel</Type>
+      <Id>c623724a-202c-4ad3-808a-c6e31f22be89</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c6b852c5-dcf1-48b4-9f58-73f71fc2f689</Id>
-      <Type>StationModel</Type>
+      <Id>3050aaaa-36a1-47c2-88a9-7f7c86e91666</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2345475d-9caa-4316-903e-1437c5f0e52f</Id>
-      <Type>CreatureModel</Type>
+      <Id>46ec8653-6cae-4279-bc6f-162f4a8abb72</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f7f75633-ccd5-4a4c-bc0c-39f8c7289a13</Id>
-      <Type>CreatureModel</Type>
+      <Id>969b668d-8875-4f23-b639-9877059c2197</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>49d6db1a-928c-45aa-a46f-6ee07c33dbb2</Id>
-      <Type>CreatureModel</Type>
+      <Id>0c793fe8-931e-4127-8605-d5cb1ff122b0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2b535a60-d853-4673-bd23-4b88b906d90e</Id>
-      <Type>StationModel</Type>
+      <Id>63c39782-81c6-41fb-be91-794e20ff03b2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1bb3d1f1-ac8e-4128-9bed-96f05a73ab3a</Id>
-      <Type>CreatureModel</Type>
+      <Id>a6bb5019-c941-4bbe-964f-313d59e5bee5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>845eed6d-c88a-4f07-8b32-ea77741aff0f</Id>
-      <Type>CreatureModel</Type>
+      <Id>b22088fa-a05e-49e5-8d49-f3320acfe21f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1f9e7de9-7ff7-45d1-a6f0-2c85f8d0041a</Id>
-      <Type>CreatureModel</Type>
+      <Id>55552f04-ab12-4e60-816d-ff5dda86ff0a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>28996946-57a6-4100-ad53-bb56069f08cd</Id>
-      <Type>StationModel</Type>
+      <Id>0b590b51-0425-4ca9-9f79-3ace16a690a8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3bc6947e-11c7-4041-85e0-a562bbc37fbd</Id>
-      <Type>CreatureModel</Type>
+      <Id>ee7d2d9b-d42e-4b88-892e-b3716c2c9991</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a38ddc52-1cac-4634-85b8-c326f5d21f04</Id>
-      <Type>CreatureModel</Type>
+      <Id>f6dd7d07-6904-4dd3-af6a-0913d3a05b4b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>52045a7c-191b-41da-a844-32d6025ab711</Id>
-      <Type>CreatureModel</Type>
+      <Id>80bce98c-21b9-4ea4-9249-fa00c2eda4db</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1caf3ee9-5331-4c8d-9481-b89e1c03bae7</Id>
-      <Type>StationModel</Type>
+      <Id>4391a46c-5278-4270-afb4-2bce1f75d788</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9df5f75a-42b0-4692-82dd-4d640fce0b2b</Id>
-      <Type>CreatureModel</Type>
+      <Id>6116efb6-db41-4061-a6d0-a053126e8fd6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>63461f3b-778f-4d0c-97b8-9ef7cbc36d7b</Id>
-      <Type>CreatureModel</Type>
+      <Id>4636d1eb-fcaf-4efc-ba99-ccbc2a1b00c3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7e6d41dd-cdee-4ce9-b5c4-487dc7bfb304</Id>
-      <Type>CreatureModel</Type>
+      <Id>0bb17d4e-bc39-4235-b6f3-f09e390a80f0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>07651741-bb12-4963-8155-880c884c8bb5</Id>
-      <Type>StationModel</Type>
+      <Id>e82fcf32-3c72-4b75-b7a5-fa118da0e77b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3d3c453c-8ce4-4c47-bba0-abfadcab49a5</Id>
-      <Type>CreatureModel</Type>
+      <Id>affb5513-97a0-4603-bcd7-a698919c1076</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>672f9450-3f9c-4379-85ff-dd7f9d6028ca</Id>
-      <Type>CreatureModel</Type>
+      <Id>3865f6ac-4182-4fc2-94bc-aa09704a35ff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3e041164-05d6-4722-9cb7-5e7c076f6b4e</Id>
-      <Type>CreatureModel</Type>
+      <Id>95deb63e-e99a-4990-8ce9-dda918e03572</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8c63c42a-d8ea-420c-9d1e-58ca9c4cfc50</Id>
-      <Type>StationModel</Type>
+      <Id>220e1589-9730-41c4-80b6-9cf9d3808fcb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>778a00b8-2f96-4e12-ae54-33a02c066358</Id>
-      <Type>CreatureModel</Type>
+      <Id>0f1049d8-5433-471b-8240-46940ca0ec53</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>03ba2bd0-2433-4725-8f6c-ae9c798b3639</Id>
-      <Type>CreatureModel</Type>
+      <Id>e7ee32a7-bbcb-4a63-acb7-e3847c588c60</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1b4320fa-cb0d-42c4-b94f-7370ddf2812e</Id>
-      <Type>CreatureModel</Type>
+      <Id>34d479a3-d43a-4b4b-a875-86d944ba6911</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c5afe7a2-7162-4c7f-aff0-178de241aa20</Id>
-      <Type>StationModel</Type>
+      <Id>cd8e5140-cc00-41ac-b147-15f0802a928e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8a3e4040-8662-491b-8bf8-fbfa78d60063</Id>
-      <Type>CreatureModel</Type>
+      <Id>df9ecd65-2241-4593-ac17-2d5269880af3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6f2c2999-dd04-467c-9d4b-de34fbc3239f</Id>
-      <Type>CreatureModel</Type>
+      <Id>12d5e377-9679-4975-a271-4ebc9bc60ce9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5648383c-7a96-42cd-907a-45e1c7615561</Id>
-      <Type>CreatureModel</Type>
+      <Id>2f81c668-f901-4b03-ae28-1e7eeb2912a0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>be21cafc-3148-4078-a45d-f74bdbb31c93</Id>
-      <Type>StationModel</Type>
+      <Id>b205e75a-9983-4584-929e-cc5798012178</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5c4f3890-16a6-4de4-bbd2-77a0a4cf42e1</Id>
-      <Type>CreatureModel</Type>
+      <Id>147332c5-96b4-4b93-8f60-c637d6d58a76</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1cc774f6-3deb-414e-b2e3-0f861b99a2b1</Id>
-      <Type>CreatureModel</Type>
+      <Id>0c72dc16-8b26-423d-bc17-511cd9e0f048</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a2ec6728-df0b-4080-ae15-9e6996992d22</Id>
-      <Type>CreatureModel</Type>
+      <Id>4bbf14c2-0418-4790-930a-3051d794525d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f35609bf-9e95-41a6-9a01-8a592211c8c3</Id>
-      <Type>ShipModel</Type>
+      <Id>7edc4e51-8b9c-4086-81d3-afc678827082</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2eaa5d54-da1f-45b3-9732-d55999effff1</Id>
-      <Type>CreatureModel</Type>
+      <Id>4502022c-8317-45f4-af93-5e96b65cbede</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>114213be-aab1-4801-888a-614d9814bf19</Id>
-      <Type>CreatureModel</Type>
+      <Id>e3480d8d-1033-4e56-a0ac-f7c9d89d93b6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>355c6c76-8912-4f49-a39c-b7a638f2822b</Id>
-      <Type>CreatureModel</Type>
+      <Id>89ede5ce-6842-4360-914c-58431478d4f4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>44401140-4af0-4665-95db-f6aaa0485a6f</Id>
-      <Type>CreatureModel</Type>
+      <Id>388d8894-fcab-4559-b484-a02e986f8911</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7881def9-fd06-4145-9c51-d2c69b5dd641</Id>
-      <Type>ShipModel</Type>
+      <Id>fe7fb212-1d41-4937-9c7d-eb8fc2234594</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3c6f81a6-56ce-4dbe-9711-6ffb1cc5985c</Id>
-      <Type>CreatureModel</Type>
+      <Id>f19ec7ae-db32-4066-9345-6d0fd73f3c94</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>31d4a763-4ff2-45bf-9a20-bf0e96ca2cd0</Id>
-      <Type>CreatureModel</Type>
+      <Id>0b2758c6-7959-49aa-aa2f-32fd5d84ed5b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c65fc5f7-3853-497c-b4a7-e1c3d317a115</Id>
-      <Type>CreatureModel</Type>
+      <Id>cbb8609b-9cd9-4904-8e14-4b40db6fbcc5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>70eaaca5-8582-428d-aca5-f8b369e12e9d</Id>
-      <Type>CreatureModel</Type>
+      <Id>04317973-1fcb-4e85-8b3b-e831bd8ffb8e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>85155a70-bf18-4650-81af-84b77ef27143</Id>
-      <Type>ShipModel</Type>
+      <Id>3ab04461-0853-4f5d-b916-42c28002d763</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>180b0bd3-77d9-4feb-911d-0a987a64336e</Id>
-      <Type>CreatureModel</Type>
+      <Id>7bed0e0e-5360-4646-8557-77555460caae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8f6ba9b5-98fa-4b6c-9bb7-8d19e30b7abf</Id>
-      <Type>CreatureModel</Type>
+      <Id>c3f9ed0e-2443-42ef-a4f7-9b9790a2cce3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6f2c7f4c-e27e-434e-95e3-c559817f04e5</Id>
-      <Type>ShipModel</Type>
+      <Id>bd606aaa-27df-44e4-9182-f71105fabc82</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>deb8acf4-348f-41ea-826b-fd210379348e</Id>
-      <Type>CreatureModel</Type>
+      <Id>3a3029ef-b32d-4d24-bb60-6237fab03490</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5eb232de-30ec-46c7-bd88-8bee4e77f1f6</Id>
-      <Type>CreatureModel</Type>
+      <Id>9ad19cd2-476a-44df-852b-049832a84dcd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>102ed7cd-eb80-40e3-a8d2-0ee1bc0b2c5d</Id>
-      <Type>CreatureModel</Type>
+      <Id>c1ac0d13-3654-4a12-bfb0-14bf8780d687</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>63607550-9c22-4ecc-814e-c43f7e795c5f</Id>
-      <Type>CreatureModel</Type>
+      <Id>b34ba0fb-3055-48ce-b396-50f1004bf55d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>62eb0847-c3ea-40f1-af3c-46d02d9cf42e</Id>
-      <Type>ShipModel</Type>
+      <Id>ab92ce67-dbac-464b-9c1a-9b5e2d081276</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>46d7efe8-2898-410b-8d48-1ea5b5ed9f58</Id>
-      <Type>CreatureModel</Type>
+      <Id>f68e0968-86a4-463b-afa8-c1e156d968db</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>73fe1f7c-c392-48f6-be68-fa110eaa4ff2</Id>
-      <Type>CreatureModel</Type>
+      <Id>32a378b7-2231-4462-86c3-22c1f40f4c82</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>944e8d34-e90e-4e90-be50-f3f13aa10589</Id>
-      <Type>CreatureModel</Type>
+      <Id>2f1a6f5e-ddf7-471f-b903-b5cfd276788f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>28590b24-91e9-44f2-90f7-a6edd547e648</Id>
-      <Type>CreatureModel</Type>
+      <Id>0594dca7-fa45-420b-bad2-2cd6c975246e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>96fdbb88-34b0-4a64-b1a7-252044948412</Id>
-      <Type>ShipModel</Type>
+      <Id>e8bfb432-356b-4b47-abad-c5be328cb6c4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0335830e-38bb-41e2-b05c-961f089dc05b</Id>
-      <Type>CreatureModel</Type>
+      <Id>d03f9358-a611-4a19-bc03-e42febb02236</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a153f595-5513-495c-b6f4-2d6db4d1b85e</Id>
-      <Type>CreatureModel</Type>
+      <Id>8bea56a2-a679-428a-8dad-e325bae24609</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9ea55d21-1f6b-4eaf-9afb-9f9318943b41</Id>
-      <Type>CreatureModel</Type>
+      <Id>ee94742e-c027-4529-8bd4-2cf686bbd3e6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>97dbf3d0-780f-4da1-a908-a1baba9fa386</Id>
-      <Type>CreatureModel</Type>
+      <Id>20c604b0-02f0-48f6-947a-bfddcd687f11</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>308dcdc0-5faf-4b78-9ac3-a4ac4fb840e0</Id>
-      <Type>ShipModel</Type>
+      <Id>2e5d25dc-d046-4262-b24b-304f0a562a9b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4eaa07d0-9b34-468b-b79f-ff08637b1222</Id>
-      <Type>CreatureModel</Type>
+      <Id>f6ee4d0b-0887-4a00-b3bf-99a5d398620a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>56ed786d-5539-41bb-929e-5d5574becb1f</Id>
-      <Type>CreatureModel</Type>
+      <Id>31240d47-17ff-4ff7-83f7-f40914f3f7c8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0db9cd9c-ccab-4e3f-a826-772301138eee</Id>
-      <Type>CreatureModel</Type>
+      <Id>a5a53c81-fd61-4507-86df-ad57ca801597</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>07ae11cb-cc40-4b5c-aa83-a7b06140b3be</Id>
-      <Type>CreatureModel</Type>
+      <Id>01342f39-d578-49d0-b92e-f6eb53588548</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ae8b8ebb-a908-42e0-81de-dfaab5834745</Id>
-      <Type>CreatureModel</Type>
+      <Id>a2924cfc-9fb8-4bfe-b945-e6d3f2841e81</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bc333218-534f-4259-bb05-3681a0810af1</Id>
-      <Type>CreatureModel</Type>
+      <Id>928d8096-f3ac-481d-a8d1-ec0c7c762a69</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2d39f123-711e-4a78-8cfc-4f4a5063a180</Id>
-      <Type>ShipModel</Type>
+      <Id>2ba4377c-dbf7-4f9f-8a59-2e9d4d609328</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4c34b723-01b2-44b8-9bfc-d841d01b5727</Id>
-      <Type>CreatureModel</Type>
+      <Id>0952567a-3348-44c3-bbf0-f64b57c201cf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>268e68a3-946f-4922-acea-be135327c919</Id>
-      <Type>CreatureModel</Type>
+      <Id>bec4ea0c-aad1-4646-86d3-ebe66f344a14</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>86d3d7fa-e475-40bf-b33c-5b0f6f00faff</Id>
-      <Type>CreatureModel</Type>
+      <Id>5f588343-1a57-4613-9be8-3afd47af72cd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7d96a539-0923-4db3-b7ae-ebab9108dd58</Id>
-      <Type>CreatureModel</Type>
+      <Id>fb99f4bb-bc05-44a1-92de-acc66d57e2b0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0ac70d3e-1994-4648-93cc-41a37851ad18</Id>
-      <Type>CreatureModel</Type>
+      <Id>9f5ae7d6-536b-4eb9-8707-612cf70e86bd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2cf3c361-091b-43d2-b2ef-410d3b0fc20a</Id>
-      <Type>CreatureModel</Type>
+      <Id>81950466-a70e-4bae-9f5b-ba1942a8f0e7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>164388f1-fc7e-4eb0-b265-57d085ce8e62</Id>
-      <Type>CreatureModel</Type>
+      <Id>0847dc9b-d6fd-4d45-abdf-c40f48babb47</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>22de6206-d360-4957-bf57-aa4bb8101c2b</Id>
-      <Type>CreatureModel</Type>
+      <Id>dfd1074a-5c9f-4237-9501-593174a8aa30</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ac927585-3962-47d2-a115-f9273f7efb6c</Id>
-      <Type>CreatureModel</Type>
+      <Id>5363c37a-a7d5-4db4-8bf3-9762a2487517</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>86f9472d-4660-4f30-8a1a-3b065f2a3eb8</Id>
-      <Type>CreatureModel</Type>
+      <Id>3748ef9d-bcf4-47f8-90b5-c38af4ef5db0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2782dff0-485c-4231-8947-beda4c2b6f6a</Id>
-      <Type>CreatureModel</Type>
+      <Id>859f8c6c-7f11-4ed9-8864-f09975989cc5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e1de1077-7d56-49cd-afd7-461f6fb613ba</Id>
-      <Type>CreatureModel</Type>
+      <Id>e4c5a0cd-4ccf-4577-82c7-028448db27bc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>db39f99f-d064-47de-84e8-c512c2232ea9</Id>
-      <Type>ShipModel</Type>
+      <Id>b1ac9fe0-4c16-403e-b1ea-6777ceccad36</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>11eceaff-b1b1-4127-b015-e9137349669d</Id>
-      <Type>CreatureModel</Type>
+      <Id>f9b3d95d-7509-4ac3-b415-15e6d606ab29</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2d643c45-d099-4f78-9f2b-1fcaaa539f6a</Id>
-      <Type>CreatureModel</Type>
+      <Id>be62f34f-747f-4fc0-a6e9-4ca1d1cd3869</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4911663b-6fa1-4b91-ad85-302e6f0880b0</Id>
-      <Type>CreatureModel</Type>
+      <Id>d2703d2b-0ac7-4b33-9056-0d149b40faf2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>87c406c8-7704-4c80-a783-9d631d650b0c</Id>
-      <Type>CreatureModel</Type>
+      <Id>512740c2-7993-424e-a860-7e70d5a1cbaa</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ee28b125-f24c-4830-8bd2-6dbc0e76c0b4</Id>
-      <Type>CreatureModel</Type>
+      <Id>9c0d4632-b0a5-459f-bdea-d9d58940dd1d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>de98f21c-9ed0-4154-85d1-a4391155f31c</Id>
-      <Type>CreatureModel</Type>
+      <Id>f81f9b23-3d5c-44f0-b726-15089da2ebb0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>dd29ef9b-2354-4402-9e62-f39eacb644eb</Id>
-      <Type>CreatureModel</Type>
+      <Id>f6b65541-05c3-4163-a7e2-1bed937b3f3c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d9dabe70-9800-45b6-b387-edd3f60c8b44</Id>
-      <Type>CreatureModel</Type>
+      <Id>77845105-5843-49ea-96fa-a268bb5d88ca</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>dae2d466-79e5-419c-8d03-74d7aa98cf1f</Id>
-      <Type>CreatureModel</Type>
+      <Id>36927883-0c9b-4068-add7-ba3654df40b7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7de6b1c0-def5-429a-bb3f-171e6e2a0046</Id>
-      <Type>CreatureModel</Type>
+      <Id>8af24cae-22d8-498e-a776-0082bfb768d4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c2d3d6bf-7777-4705-bbed-761a57165def</Id>
-      <Type>ShipModel</Type>
+      <Id>3c37e855-6fb4-41f8-8d6b-36010dc7c859</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d12392ac-9526-4c46-b69d-8031013178a2</Id>
-      <Type>CreatureModel</Type>
+      <Id>7134b444-a642-4da6-9e26-81123d3ac51b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3fcad4d9-168c-4206-8d3a-427fdf2aa372</Id>
-      <Type>CreatureModel</Type>
+      <Id>77387950-1b8b-492b-81ad-aa80ff06f99a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>19ba5323-1df1-49b8-a06c-aa600e64ddfa</Id>
-      <Type>ShipModel</Type>
+      <Id>632a1490-27f8-4474-89df-ed6256e07e5f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5651af13-f6e4-46b7-9f81-da0f1ad1db4c</Id>
-      <Type>CreatureModel</Type>
+      <Id>c2115074-ecfe-4ff6-bbaf-d17906e9c639</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>11b7b4f7-d5f6-41b1-8ee9-8cf72bcd9b58</Id>
-      <Type>CreatureModel</Type>
+      <Id>1674d4e9-5e72-4701-8ec7-f55551619a05</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>94a433bf-8d9e-4081-938a-cfcb1a21c5df</Id>
-      <Type>CreatureModel</Type>
+      <Id>4b5bc937-f185-41db-b061-73fcf30aac00</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>aff32089-05f6-473b-8899-a224fef3a29f</Id>
-      <Type>CreatureModel</Type>
+      <Id>aeedd481-ffc0-4199-ae42-56256d4b3fb1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c16344bb-0563-4110-bf14-9e2f74986be4</Id>
-      <Type>ShipModel</Type>
+      <Id>79d1d31f-45b7-4e46-883c-4941d5950e2f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2250ce06-8381-431c-b4f4-414a4fd3a8fe</Id>
-      <Type>CreatureModel</Type>
+      <Id>80d5879b-f771-4a2c-b391-d841393d62c7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bc5275b5-a855-4f7f-aa76-2ba33c1343fe</Id>
-      <Type>CreatureModel</Type>
+      <Id>ec586c27-918f-4fe1-89ca-7e9222713cfa</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0f2ce565-c5a4-4a65-925f-7ea9c5f6aad0</Id>
-      <Type>CreatureModel</Type>
+      <Id>9f020ff5-4aa9-46f6-8e7a-d33674b6cc89</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6ea4b132-a1ca-4c00-b4f5-3cd441d96756</Id>
-      <Type>CreatureModel</Type>
+      <Id>c46d5551-c3d3-49ec-868a-f8eaf6e5b5b7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9697543c-9984-406e-bd3e-dc214a9b39fe</Id>
-      <Type>ShipModel</Type>
+      <Id>eeef9bce-3dd6-44dc-9c64-8d23111e6422</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>55b6bf5b-716d-4bb6-8ccb-1239be4a3aa2</Id>
-      <Type>CreatureModel</Type>
+      <Id>6297103c-1ccd-4230-be65-854998bd0c06</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>95270269-95e4-4d7c-8df2-58eb78eafcae</Id>
-      <Type>CreatureModel</Type>
+      <Id>b32ab911-5bc4-4c0b-a5c6-190d2a1cf825</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c06bce20-0867-4881-97b6-7092f08a6b90</Id>
-      <Type>CreatureModel</Type>
+      <Id>f9c1be93-d21f-457c-875b-b03f66571d08</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b34885fe-7a84-4998-996d-7dffa77da185</Id>
-      <Type>CreatureModel</Type>
+      <Id>49c19353-f086-4567-bdd0-3af56836c117</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8ad3249b-8adf-41a2-86d4-7dd36f30c19a</Id>
-      <Type>CreatureModel</Type>
+      <Id>f51326dd-8657-4063-aa1c-43e05ae1ca56</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a1aedf32-92a9-403c-bc5b-b7d34c638ad6</Id>
-      <Type>CreatureModel</Type>
+      <Id>8720b6b7-98ee-4a0b-a371-6595ebac8d89</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1758e84d-df23-48f0-8dde-77323399fefd</Id>
-      <Type>ShipModel</Type>
+      <Id>dae43274-eae5-44b7-9bab-4b2252da83bb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>400beed3-a1a0-4e03-96c1-defc8661c715</Id>
-      <Type>CreatureModel</Type>
+      <Id>393c0c79-fd76-4069-8a0e-5076ff6a06b6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bfa1e5d1-3279-4c6c-81b3-3f9e2f3c2677</Id>
-      <Type>CreatureModel</Type>
+      <Id>0ac952e7-8147-4abe-8e92-18fb52ca03bd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>11971b1d-852c-40b1-b8cb-434feb39a1d8</Id>
-      <Type>ShipModel</Type>
+      <Id>022b82d7-16c2-4519-96ef-4ee09c4aee08</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>29005f72-32ef-477b-83c7-65606a414c9e</Id>
-      <Type>CreatureModel</Type>
+      <Id>b5f5b3d4-b1d3-4009-9025-80566c4d025f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>74904bc3-2e97-448d-bc83-63d1963fc9fc</Id>
-      <Type>CreatureModel</Type>
+      <Id>d957ad52-5f90-468f-8825-38843f476453</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b787023e-e2e3-4c61-8e67-329c0b973ee7</Id>
-      <Type>CreatureModel</Type>
+      <Id>86c28ac7-c93d-4020-aef0-8f67bd9ffba2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>65893be3-f73b-46ae-90f5-969bd1318784</Id>
-      <Type>CreatureModel</Type>
+      <Id>230773ea-2d78-4f32-ba02-e709e8e9a77e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>300cf8c4-6dfa-425b-b7a1-b9371f52e180</Id>
-      <Type>CreatureModel</Type>
+      <Id>b6ccd910-a74a-4807-9b24-55a679f9e810</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5a42840e-6fc1-479e-bcfa-695949c5e775</Id>
-      <Type>CreatureModel</Type>
+      <Id>c943f5e7-9f26-4732-a0a6-c7b522b5c213</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ef0a47b3-03cc-457f-bfcd-60a72fc38572</Id>
-      <Type>CreatureModel</Type>
+      <Id>50551ddf-e913-46a9-9906-5fcdc9838510</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>cbc39741-b0d6-47c5-953a-c20976cdea82</Id>
-      <Type>CreatureModel</Type>
+      <Id>f08d1d6b-9be5-4bf4-9111-891d8733568c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4b1c6a2a-3dd7-4c62-a0b5-775d24cfd07d</Id>
-      <Type>ShipModel</Type>
+      <Id>15fc57f6-74d8-41b9-b076-92c9c0b34db5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6258a9ee-d073-4859-9993-2a8dd56a881e</Id>
-      <Type>CreatureModel</Type>
+      <Id>d16f73ac-6977-4743-9bc3-a28dcb690789</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>85ef297c-05ec-4406-b86a-9baa1e5cfad0</Id>
-      <Type>CreatureModel</Type>
+      <Id>206df767-af8c-4fef-9acb-6f8bacbd7384</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>77db574f-5404-4059-82d1-b4f344a7bf8b</Id>
-      <Type>ShipModel</Type>
+      <Id>718328b2-e451-48cc-93dd-142dc31565ff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5be9108d-1958-4449-91ba-7cac5b00e38c</Id>
-      <Type>CreatureModel</Type>
+      <Id>39cdc11b-2f3c-4314-9032-0d85c2479d16</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7b75cda1-3555-419c-9f07-f3d8dce073ba</Id>
-      <Type>CreatureModel</Type>
+      <Id>96697f5a-3fb3-4b47-ab5a-a20391e6b4cf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9c20a7c9-12d0-4ea3-9207-ce087bc7d623</Id>
-      <Type>CreatureModel</Type>
+      <Id>74e158bc-4819-473f-8d0f-5483c717d9ff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2ee7627d-84ad-4f6f-9d9c-49f31e3293af</Id>
-      <Type>CreatureModel</Type>
+      <Id>0ed269d4-e83d-43b2-9883-d27f5890d38d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>97a548b6-1fb5-41e7-ba58-6c7970cacec3</Id>
-      <Type>CreatureModel</Type>
+      <Id>4ce7fab7-4197-4290-a3d6-c772e2bd8c70</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7e7667e2-39b1-4200-bb7b-fb67e8dfb0c5</Id>
-      <Type>CreatureModel</Type>
+      <Id>31383fc4-59d3-44b0-a39d-5c70e96da03b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>625c9d00-8785-4fb5-8c19-e12e31e7da9d</Id>
-      <Type>ShipModel</Type>
+      <Id>f3988e05-db10-466b-8a0b-5749d91aeadb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>abdbfb8e-b03c-4275-9405-bdcb49512ab3</Id>
-      <Type>CreatureModel</Type>
+      <Id>c001156e-ab91-4523-8783-c1b05203fded</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1b11a46f-15b3-4c0d-8e42-40d8c55e1143</Id>
-      <Type>CreatureModel</Type>
+      <Id>9f8320af-8234-4dfd-9e8a-e5d3d064e6b7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6291f183-d663-4025-8aa8-7de0dbd423c3</Id>
-      <Type>CreatureModel</Type>
+      <Id>4a7f6fd9-5d61-4c4c-9948-aea089c474af</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>348f6717-3108-4ea2-8626-b35496456216</Id>
-      <Type>CreatureModel</Type>
+      <Id>51acf2bd-fac7-46a4-ba3a-a4b68f652527</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>65de3fb9-967c-44d1-9b3a-bfd479af5c02</Id>
-      <Type>ShipModel</Type>
+      <Id>db8e9fe8-f939-4c8a-8fb0-627542be4d0e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c47f2329-89a2-4c63-8bb0-a586a7a7842d</Id>
-      <Type>CreatureModel</Type>
+      <Id>f96d2afc-cd10-4dd2-a149-ec001f9187b0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d7246404-55ca-4280-bb24-302b6dc31bfc</Id>
-      <Type>CreatureModel</Type>
+      <Id>6ffb5caf-88b1-4296-b1c5-9ee0521d3ece</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bfa09bbf-8bbf-4a2e-be17-1b33331834d0</Id>
-      <Type>CreatureModel</Type>
+      <Id>ff6b697c-7428-48b1-90d6-927cf4a7ce66</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1fece226-8ce5-40b3-992d-67464c446c27</Id>
-      <Type>CreatureModel</Type>
+      <Id>84e89abe-8ad7-48b7-a422-827aa7e402fb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>57479239-99e0-4bbb-b697-798a08d54cf6</Id>
-      <Type>ShipModel</Type>
+      <Id>21392df3-2a5d-463d-bbc9-d85eb18fe599</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f29e2cfb-a684-42ee-83ce-0b1826520c84</Id>
-      <Type>CreatureModel</Type>
+      <Id>4e1f7cc4-ba07-44a2-8862-fd805d9ba328</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a80db6b9-c3cd-4c89-923f-2ddd494aaa4a</Id>
-      <Type>CreatureModel</Type>
+      <Id>4daecc32-b4e8-4d4d-bb66-adbd6c198d4a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b0fd5a74-7b23-40ef-929f-165b212ef2f2</Id>
-      <Type>CreatureModel</Type>
+      <Id>55b347eb-c614-41e8-bcbd-29042ffebbfd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3c7edaae-e89f-493b-b3be-483956db144e</Id>
-      <Type>CreatureModel</Type>
+      <Id>94472616-98ac-4082-b319-648288a3eba6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f76fd5dd-5581-498c-8b1c-d506eb837771</Id>
-      <Type>CreatureModel</Type>
+      <Id>1c2de2f7-5d39-443b-97bf-fba109ec5330</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2463327d-c2fe-4236-a796-d8dc216d32bd</Id>
-      <Type>CreatureModel</Type>
+      <Id>626aeaca-5538-48b5-9b2c-b4fff1210d58</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e9c8f55c-966a-45b2-9262-876d611b1193</Id>
-      <Type>CreatureModel</Type>
+      <Id>6628252a-c27a-4a9d-ad3b-be1d8447bc48</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d72a6abe-732c-4c9c-a47e-4765e42242ae</Id>
-      <Type>CreatureModel</Type>
+      <Id>f76da0cf-176e-44b4-9c0a-bed7b7869d89</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1b1e1792-0a4a-4d1f-972f-745e3137d1d6</Id>
-      <Type>ShipModel</Type>
+      <Id>eb7b5c1b-a6a6-4b7c-b2ee-4f1341f7bcaf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5a7f4fb9-57ad-4513-8269-91e5799bb3de</Id>
-      <Type>CreatureModel</Type>
+      <Id>5a78542a-75de-4345-9730-d490c292182b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eb9b8e28-fd0a-497c-a352-1778027ac66a</Id>
-      <Type>CreatureModel</Type>
+      <Id>0a29bc42-7ac7-4136-bfc7-e695faaed9c7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>073dde9e-55db-41d0-9f1d-86dfd2f21568</Id>
-      <Type>CreatureModel</Type>
+      <Id>de140311-3dd8-485f-ac51-78330ed76ce1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1b60e600-9818-4140-915e-3e5e22de4692</Id>
-      <Type>CreatureModel</Type>
+      <Id>749777cf-6340-42ed-bb6c-32daef2b304c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>da951f07-0d4d-4c02-a78e-20f95011a9eb</Id>
-      <Type>ShipModel</Type>
+      <Id>23d34a9c-ad99-4ea3-9bf2-ee76ef6f717d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ad1493ba-795e-401d-bd61-ffad14855102</Id>
-      <Type>CreatureModel</Type>
+      <Id>967f090d-5d98-4a23-806c-6d38934cc37c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3889a135-ac7b-45de-843d-4f13f3c82fbd</Id>
-      <Type>CreatureModel</Type>
+      <Id>02035c43-d911-495d-a1ac-5814779a6977</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1e2a3b63-f2fe-4f0b-80dc-4060b72a7f1f</Id>
-      <Type>CreatureModel</Type>
+      <Id>d2d7d865-28fe-4c55-931d-5009e34c124e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b9f1d39e-354e-495d-bd88-a576779e2f86</Id>
-      <Type>CreatureModel</Type>
+      <Id>3e2f0125-c0b9-419f-bd96-8c6c67d5ced3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5b50b82f-f905-48d7-9bb0-37ae9c7811db</Id>
-      <Type>CreatureModel</Type>
+      <Id>e9aa5c35-d529-438a-812a-27a157663de2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>71d666a9-be71-4c83-92a8-4dc5eb45bee7</Id>
-      <Type>CreatureModel</Type>
+      <Id>f5f4e7e7-2645-45c2-8617-90099624d663</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e28e5506-1ccf-4e19-b08f-c99cff37dab7</Id>
-      <Type>CreatureModel</Type>
+      <Id>42db428e-38db-4534-9c52-8ec459c8ead1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c83ccc52-1226-4047-ad76-0cbaab7b5589</Id>
-      <Type>CreatureModel</Type>
+      <Id>d6d0e0eb-87f3-4a8f-b4bb-ed932e65cd0e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2159bae6-f0f9-4ac2-8cd6-ad1047908694</Id>
-      <Type>CreatureModel</Type>
+      <Id>523ae256-393b-44cc-94ee-44c4305f2739</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4b2e19c5-adb9-43f6-b261-3920ed9fa8d0</Id>
-      <Type>CreatureModel</Type>
+      <Id>c73ffd75-73f2-45d4-8d69-60993fd961c5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9806fb3d-5355-4ad7-865b-4b63d418ba25</Id>
-      <Type>CreatureModel</Type>
+      <Id>1f75ea9e-6a6f-40c1-ad56-71c3653f4ffd</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0fec6c84-f6f1-48cb-9d5b-822c3fa44d63</Id>
-      <Type>CreatureModel</Type>
+      <Id>a1063b49-f002-4c97-8d57-c9fa2a3a2e27</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ef86cb7d-7e06-4707-9a7e-37c16315b0c8</Id>
-      <Type>CreatureModel</Type>
+      <Id>f6cd2be5-8aa3-4f7b-a4e0-250f87f9ab0f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6672957f-3314-45c2-bf8e-d67513508b28</Id>
-      <Type>CreatureModel</Type>
+      <Id>e685e95c-b772-49ec-b905-9e89caaddae6</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b332a29b-4296-4b84-8388-1a8d7ef2c1b2</Id>
-      <Type>CreatureModel</Type>
+      <Id>396a0e7f-3031-4430-a40c-583b44b64730</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>99bb9c47-578a-42e5-a377-b928e28e2ced</Id>
-      <Type>CreatureModel</Type>
+      <Id>e75d654c-fc45-4aa6-8db0-d31a3fc24cd1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3fac4ead-64bc-400e-af41-299dc0c91b84</Id>
-      <Type>CreatureModel</Type>
+      <Id>4747091c-ea46-4273-8dc4-1bf22032043f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8405d1ef-453d-4a81-81ff-a31cc4b475c2</Id>
-      <Type>CreatureModel</Type>
+      <Id>59273309-afe9-44b6-8d93-1ed5b498e369</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>68882df2-69ef-4500-bb3c-ca9a74bb9ea1</Id>
-      <Type>ShipModel</Type>
+      <Id>73f2350c-4942-45ff-b7e2-bb5f697e36d8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0c3befbd-b84c-4831-b22d-1bc96abe7323</Id>
-      <Type>CreatureModel</Type>
+      <Id>18843630-abfa-45be-a1d7-e8a23bf0d902</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2ebdd53f-11a1-4f12-a74c-7b6b17faca2e</Id>
-      <Type>CreatureModel</Type>
+      <Id>772d78f3-7076-47b9-acaf-f10b2963d988</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4ce81ab5-14b5-46b0-b627-ab491e175289</Id>
-      <Type>ShipModel</Type>
+      <Id>a7642851-22d0-43fe-8841-2df337fe8c4e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f64095aa-08ed-41d7-b726-7367da1c1779</Id>
-      <Type>CreatureModel</Type>
+      <Id>48c992fd-bae5-4b91-a337-e95febf391f2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>50fb96e2-41a3-444a-ac7a-cee0b804723b</Id>
-      <Type>CreatureModel</Type>
+      <Id>62f6631b-07e3-4df9-883e-38dff9ffd942</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5626b97c-a024-4b20-8f1b-8ea9352c3527</Id>
-      <Type>CreatureModel</Type>
+      <Id>de1b27d4-98ba-48a5-9c31-d4eabe21bb06</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d5c187b2-f8ed-41be-9d3c-c750f8f3a3f5</Id>
-      <Type>CreatureModel</Type>
+      <Id>c6484478-9e7c-4139-b5cf-d4f48b5df75a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5d8db74b-bb2a-4a89-806e-7ed91afc756d</Id>
-      <Type>ShipModel</Type>
+      <Id>98d09b30-8f72-4b44-8593-6f390139b860</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c3fdbc22-d8a3-46e4-8ee9-23671697db2c</Id>
-      <Type>CreatureModel</Type>
+      <Id>6c4fd7a8-55f6-4774-9e8b-ae3aeba68c47</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>447c6959-7d91-4610-9e04-4b5381bbf9c8</Id>
-      <Type>CreatureModel</Type>
+      <Id>87cf4c58-4acb-4c63-812b-9cfe1e131868</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d65f1885-f47a-45b2-9ecf-59e3cb7a7e83</Id>
-      <Type>CreatureModel</Type>
+      <Id>8704413f-fd4f-4a29-aaf0-a20fe8d6032c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7a98cb0d-e922-4975-838f-554f3200ec18</Id>
-      <Type>CreatureModel</Type>
+      <Id>11dc2257-849d-4f68-8abf-2f7d91569d70</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5e7907d0-c987-4972-b5bb-94be3cc23680</Id>
-      <Type>CreatureModel</Type>
+      <Id>49db39b1-5486-44c4-8a8e-b423d97963a0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>33d04b71-2edf-42d7-8d40-d7ab2be072f8</Id>
-      <Type>CreatureModel</Type>
+      <Id>eb264e7e-e8b5-44fb-830a-1be12fab3f35</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>1b0dcf6b-05a9-40a2-99ed-bdba9dc483be</Id>
-      <Type>CreatureModel</Type>
+      <Id>6fa3b9f8-24a9-485d-907c-8b533118c755</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ab73da58-1961-405d-ad53-e55b010984c2</Id>
-      <Type>CreatureModel</Type>
+      <Id>b17fd100-67e8-4f93-85e1-eafb5ead8f1d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e702c4e6-f947-428b-89e1-ac5a86b40b00</Id>
-      <Type>CreatureModel</Type>
+      <Id>6e059b59-992e-41fd-bde2-ba5eeca9db62</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>93a46323-a082-480e-ac96-63ba2d321d56</Id>
-      <Type>CreatureModel</Type>
+      <Id>e3b47b03-df23-4a81-b24d-134953fc5edc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e627b39e-c8df-4add-a891-eb2a09d934bd</Id>
-      <Type>CreatureModel</Type>
+      <Id>41bb0c36-fd7a-4ca4-912e-160f490f0f5e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>02aabf7b-f159-4c9e-b846-fcd509a998f6</Id>
-      <Type>CreatureModel</Type>
+      <Id>09a197f0-251c-4aff-bd7d-c5e8395447ce</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3d569acd-e665-4744-827a-0eef0576a96b</Id>
-      <Type>CreatureModel</Type>
+      <Id>c3b6c4d2-9352-473f-b991-91528b0df241</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a98505cb-d9d6-4695-be65-6da499a1c6ba</Id>
-      <Type>CreatureModel</Type>
+      <Id>b50e0dfa-3812-407b-86d7-098d160d7732</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>75858470-5e69-476d-b095-e8f8c2f934ba</Id>
-      <Type>ShipModel</Type>
+      <Id>902296f3-d654-44f9-9924-2345bba22d70</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>28a4fd78-04b0-4cca-83b2-81d57abd7f50</Id>
-      <Type>CreatureModel</Type>
+      <Id>c62eb6ca-3b30-4ca0-8aba-94df7f2ed0fb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4fbeea30-930e-4c54-8bf2-28d00e39f245</Id>
-      <Type>CreatureModel</Type>
+      <Id>667530a7-f4df-436d-98fe-d7a6c1dc72ac</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a29fa4a5-8aff-4c3e-aa6a-381acb3d99dd</Id>
-      <Type>ShipModel</Type>
+      <Id>2e5e9a8f-2ff6-4517-8622-53cce4c11afc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>db897baa-e52e-4c89-802d-c2cfdbc9e1b8</Id>
-      <Type>CreatureModel</Type>
+      <Id>38340a9b-18da-496d-8dab-772881df216d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d01ada84-d225-4810-b4e0-ccfa72f527cd</Id>
-      <Type>CreatureModel</Type>
+      <Id>f66147b5-1325-4440-a116-8dc40de12588</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d769d6df-e375-478d-ba68-29c51fb60e0b</Id>
-      <Type>CreatureModel</Type>
+      <Id>e871bbc9-3355-40db-be12-acd343deb5a9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>49468334-793e-4483-9a07-897fd236f15b</Id>
-      <Type>CreatureModel</Type>
+      <Id>0bdbe48d-68e3-45cf-a713-d6ed888c6ad2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>76aefd23-1a1f-4e7e-b3b1-21b7adc3a271</Id>
-      <Type>CreatureModel</Type>
+      <Id>db534533-ad04-4822-b257-e9e6b42a00e1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>96ad35ba-e2d4-45e9-adfa-0e881e856a10</Id>
-      <Type>CreatureModel</Type>
+      <Id>fe93a356-f650-42a9-9c0b-528e7cf5097b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c9e8f250-9b34-416c-ac91-31b31540d6bd</Id>
-      <Type>ShipModel</Type>
+      <Id>d66526a2-1804-48a1-a003-9202be92adb5</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5ccebd75-87cc-4f3c-9043-c2d4861882d8</Id>
-      <Type>CreatureModel</Type>
+      <Id>d77d50d3-f345-4cdc-96ea-62f0752b8491</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>966e4d13-ab35-45d7-901c-57082c2e638a</Id>
-      <Type>CreatureModel</Type>
+      <Id>28f60170-4fbb-4977-8137-39e9a6fc24b7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6b500fc9-7f99-43a9-9bda-ce863401d9ec</Id>
-      <Type>ShipModel</Type>
+      <Id>8721506f-f822-4c3f-a9bd-cea22c0f9921</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>aff08fc1-9b8c-4338-b140-60393021165b</Id>
-      <Type>CreatureModel</Type>
+      <Id>bc5cdf98-6872-45cd-b616-0ea52b7c1be1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3aa2c563-cf51-4b11-9f96-1f8ae3cf7c87</Id>
-      <Type>CreatureModel</Type>
+      <Id>a5e6458b-f1f3-4f0b-ada6-e6348099c23f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d148a208-6ef8-4188-9afd-5ca734201574</Id>
-      <Type>ShipModel</Type>
+      <Id>70d81db8-a816-449c-b8bc-24ac28405e07</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c2ccf4a5-f53c-4734-8542-dca63710da30</Id>
-      <Type>CreatureModel</Type>
+      <Id>df101e69-fcac-4e84-82b9-43a93ce8b234</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>606d33ca-b256-4fb3-9a89-d4bf37108a07</Id>
-      <Type>CreatureModel</Type>
+      <Id>d564d1e5-cdcb-4919-a59f-b7270d66fdbf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4989b0e6-50c8-4661-af63-8487faf247cc</Id>
-      <Type>ShipModel</Type>
+      <Id>a200ea5b-9544-4838-962b-f946f5389e35</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f93b6348-50d8-4733-91d0-403187eba964</Id>
-      <Type>CreatureModel</Type>
+      <Id>42f8c229-6a3d-4c1d-95ec-01d42510d1c1</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>87aa4671-872b-490d-b12f-f738c9ad9457</Id>
-      <Type>CreatureModel</Type>
+      <Id>41a262a5-e89a-4d70-b242-9852d13051cc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e6684e03-3322-479b-a084-88d8288e6f88</Id>
-      <Type>CreatureModel</Type>
+      <Id>99098265-0df6-4884-a379-03447bfe5b2c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a346fa30-d862-495c-8ca7-171c78c423a2</Id>
-      <Type>CreatureModel</Type>
+      <Id>58dc4562-a914-48c3-86a7-0d799531b636</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>ff28da57-b462-4145-858a-9cc43a1e7dfb</Id>
-      <Type>CreatureModel</Type>
+      <Id>ac651999-af40-4dd5-bbee-fc321d25cdac</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>75f5b897-0064-4cb1-a871-f5b7bdef86d6</Id>
-      <Type>CreatureModel</Type>
+      <Id>859614b2-0f56-4338-830b-7d7e6156b56c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fe9efe1e-f772-4f8e-8fa9-1421cd26d602</Id>
-      <Type>ShipModel</Type>
+      <Id>5905b212-4f5a-42c0-b832-5d655f21a497</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>132e43cb-dbff-4dc6-b1da-125cf9af93b7</Id>
-      <Type>CreatureModel</Type>
+      <Id>c6cad2bb-856f-4f84-b9c7-e438a73e43c4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c69a3f6b-b07d-48a3-91d4-f7040f953bff</Id>
-      <Type>CreatureModel</Type>
+      <Id>2675de40-aea6-4554-9855-3630e51e19d8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>15b3f5f1-46cf-4f54-a9c2-056a431e0196</Id>
-      <Type>ShipModel</Type>
+      <Id>83409625-33c4-4955-8ff7-aa3a79f7e2a4</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>55bf89bf-840a-46de-877e-b8747cde0ac6</Id>
-      <Type>CreatureModel</Type>
+      <Id>ce28be00-384b-4292-b600-25858d309d1c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eb839eea-d2f9-46dd-aaf8-c13dfff06ccb</Id>
-      <Type>CreatureModel</Type>
+      <Id>e849e4de-53b2-42a3-9df3-a05a3c433aa7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>59b9b304-4331-4a5c-a9c2-905b15811db5</Id>
-      <Type>CreatureModel</Type>
+      <Id>d44f929d-dbbc-47dd-8a55-3755e3880b4d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>34170f2e-59b6-4452-bbaa-2e5946cf2c14</Id>
-      <Type>CreatureModel</Type>
+      <Id>fbfe3936-d312-45c4-9fe2-b406fbcf2a41</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>140fa377-009f-49a1-8529-abb471b7c031</Id>
-      <Type>ShipModel</Type>
+      <Id>bf7ab8fd-8036-4c81-aade-e096d12b1aac</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>122ecf5c-98a9-4f41-ae55-7e6e053faea9</Id>
-      <Type>CreatureModel</Type>
+      <Id>e83ccfba-8c02-4d55-9c67-483204838b24</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>223ae71e-e804-44c9-bd46-3aaa28eb205d</Id>
-      <Type>CreatureModel</Type>
+      <Id>8ff8e904-fd5e-41ef-a584-1ffde27cee7b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d872e2b2-59b0-4be4-8a76-49da2bdf6f0f</Id>
-      <Type>ShipModel</Type>
+      <Id>41ec318c-b1f3-4766-9995-b52644e11c5d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>be1e95ad-5c69-4442-8acd-aea3c2f23f23</Id>
-      <Type>CreatureModel</Type>
+      <Id>84f4f08c-e4af-4d72-a49a-0f8794b9519d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>40ef4afc-8be2-47ac-8de5-8a608f35801c</Id>
-      <Type>CreatureModel</Type>
+      <Id>8d94d6aa-0865-4ef5-8f0e-22d64a35a87d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>79f56056-5b6e-4cbf-8518-9b9dfcd01132</Id>
-      <Type>CreatureModel</Type>
+      <Id>595842de-14c5-44f9-be0c-bed18e545520</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d4a9a127-b26c-4dca-84e8-220c13fae3d4</Id>
-      <Type>CreatureModel</Type>
+      <Id>c5d9c7ff-ce6e-4c70-a0d8-55238dce01b7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b26b450d-5873-43ba-82e5-be1a9a16cd2a</Id>
-      <Type>ShipModel</Type>
+      <Id>b7b0dd62-f74f-48a0-afcf-b73fa10f6cee</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>cb36531a-0bb5-48e6-af89-a7329385add5</Id>
-      <Type>CreatureModel</Type>
+      <Id>c0baa77c-6043-45fd-a126-608bae337743</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f55d8679-ec70-4d7c-826c-c02415bd85c2</Id>
-      <Type>CreatureModel</Type>
+      <Id>345823a8-c5e3-4dc8-b097-56397cf5188e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d128ae33-a423-4e68-86b2-5be245143a38</Id>
-      <Type>ShipModel</Type>
+      <Id>963054de-a946-4f8e-b7eb-bb5491ef5f4b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>36d55765-925a-4b80-a068-691e92562d6d</Id>
-      <Type>CreatureModel</Type>
+      <Id>248a4c37-bca3-454a-bcef-e787f67fb066</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>df2124d0-2359-4748-b04a-64fed2e57dc1</Id>
-      <Type>CreatureModel</Type>
+      <Id>eba627a3-c818-4791-a5ea-24e231519b1c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9ea3623c-7f33-422b-8caa-49d8156291e8</Id>
-      <Type>CreatureModel</Type>
+      <Id>b2e6a455-ede8-40b7-85d4-d2c475b22a80</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b4b85a27-2ce0-4e8e-a155-c9931e5e47fd</Id>
-      <Type>CreatureModel</Type>
+      <Id>7fb0401c-b87f-4a9e-bd4f-a3bb3688ce8e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0c5b3235-5377-4524-bf0c-24996e32d03b</Id>
-      <Type>CreatureModel</Type>
+      <Id>a9a3c883-2339-4d01-8ea1-046d40342171</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a1dfff0a-fc37-4dbe-921a-134978e8aa1a</Id>
-      <Type>CreatureModel</Type>
+      <Id>c2561741-d7cc-47a6-8c12-abcbc3194aa8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>94066f6e-4719-4721-9ae7-3d312746966f</Id>
-      <Type>ShipModel</Type>
+      <Id>287155fe-f2e4-494a-bc7f-fe60c0a423ae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7437ef65-f65d-409c-9e5e-4bba25330b7e</Id>
-      <Type>CreatureModel</Type>
+      <Id>d84420a8-5149-4c5e-bfbf-96c1ebca9248</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>17435f00-6979-4282-9a37-e8db3b591072</Id>
-      <Type>CreatureModel</Type>
+      <Id>41773ea4-cf6e-4448-886c-0235e3788bad</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bb7c2848-f92a-49db-a0a5-3f2625ba7a48</Id>
-      <Type>CreatureModel</Type>
+      <Id>afddfdb0-8065-404e-96df-a6f81e25c22d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>75bf6a6c-667d-4a8f-8fb4-f1e692e42fa3</Id>
-      <Type>CreatureModel</Type>
+      <Id>a31024d7-d9d3-4dbe-995a-6cc32a9c0d80</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>fccf9622-188f-4ec8-9109-6c3b29a8260e</Id>
-      <Type>ShipModel</Type>
+      <Id>1afceaaf-779f-4b44-a005-59eaafc9730d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9fb8975e-55f4-41c1-8fe7-f3f0483dbe11</Id>
-      <Type>CreatureModel</Type>
+      <Id>1816279f-fdf9-4f53-9516-96715fbe23ab</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f9d18d4c-2539-41c8-a7e1-4a4f499c03ed</Id>
-      <Type>CreatureModel</Type>
+      <Id>8353295c-62c0-4e1d-a5df-921154e3c606</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>97c18809-b3ae-4af4-bc0d-58af7a4937df</Id>
-      <Type>CreatureModel</Type>
+      <Id>4ffd1e8b-1181-4e53-ae62-02fd76cd9f2a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>02d71635-bf9c-4da5-8f29-744edc2bbc6e</Id>
-      <Type>CreatureModel</Type>
+      <Id>58f10bed-29bb-409c-a708-d308e63d607a</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0cc59154-7ee1-4e68-a8f9-e6fecff537f9</Id>
-      <Type>CreatureModel</Type>
+      <Id>96533960-e54b-46ea-a421-a18d897ecce2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>74066d4c-26b7-4a5a-a46a-10dcef787856</Id>
-      <Type>CreatureModel</Type>
+      <Id>aa5b7a7a-9ea8-4ca7-b6a4-976232c2b018</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>bc711529-6313-4fc2-9d2a-0d3d738b321a</Id>
-      <Type>ShipModel</Type>
+      <Id>7ace059e-c0f9-475a-bcf2-2f30604f0e02</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0d736ac8-2cda-4141-96c5-21a7498088f5</Id>
-      <Type>CreatureModel</Type>
+      <Id>a37720ba-295d-4c54-8797-b02c18bd305c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6a1bb344-cc3b-4f74-b0ac-6d56004d28c1</Id>
-      <Type>CreatureModel</Type>
+      <Id>148a67f3-14ed-46d0-9344-c195ac2b212d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c72d69c5-d7ae-4e7a-a0ff-1e15db0426a3</Id>
-      <Type>CreatureModel</Type>
+      <Id>4ceb959b-e403-4ab4-84f2-4f364f16136b</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>4cc87ad6-f218-48ed-b5a2-30d67f6b7a85</Id>
-      <Type>CreatureModel</Type>
+      <Id>c30d5f35-c398-4493-a71d-d305b0c7ae61</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>618ac906-d978-40f6-90d6-910a88d9b065</Id>
-      <Type>ShipModel</Type>
+      <Id>842e361c-561f-472c-ac55-20caef18fed7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a504aa0e-a2df-424a-8a52-b65ca79830fe</Id>
-      <Type>CreatureModel</Type>
+      <Id>df57f408-840c-41a2-9afe-fb2a904da281</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8f9fc529-197a-4ad5-bd1a-639a397985b1</Id>
-      <Type>CreatureModel</Type>
+      <Id>1c1a8a53-3335-4e9a-a25a-e334b336775e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>90d8a9a5-1a52-457b-b570-372703458b75</Id>
-      <Type>ShipModel</Type>
+      <Id>3b735765-925b-41e1-a4a1-57607a140fae</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>37481754-845a-45c2-9a02-4cf887d8d00d</Id>
-      <Type>CreatureModel</Type>
+      <Id>f44c9a74-d8e3-45cc-aea6-4901a39f26fe</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c1f9874b-fc18-4878-97a3-3ad272bb5ee8</Id>
-      <Type>CreatureModel</Type>
+      <Id>52ff43c6-8271-4bbf-a7f4-46b62e9a3d79</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>194d445e-6e65-444e-a328-cece648eb6c9</Id>
-      <Type>StationModel</Type>
+      <Id>c35f4088-5e10-45fb-afe9-c375960dda64</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>db6a6a2a-e5fa-48b6-a558-e3a20db66884</Id>
-      <Type>CreatureModel</Type>
+      <Id>0cd726c5-85fb-4b2b-bf41-37ede0fa3c61</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3379531d-65d6-4ea8-a55b-2dd981c5feb6</Id>
-      <Type>CreatureModel</Type>
+      <Id>fcb33798-c16e-448e-8f1b-4e34597de8af</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>613a4808-4851-493a-a0d6-87a737f62d74</Id>
-      <Type>StationModel</Type>
+      <Id>9cf932fb-1e6f-4e8e-b7b4-4f730010ffe8</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5c2f7e4c-d9f7-4afb-b6c3-e7305f66fd84</Id>
-      <Type>CreatureModel</Type>
+      <Id>2515d102-6b87-4b84-8fa0-523158a77a6e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>281b1090-2619-4d62-b785-7f813a33bb8e</Id>
-      <Type>CreatureModel</Type>
+      <Id>4ea62fea-4f81-4f05-885e-4a6888068ea9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d4bf0095-4396-4700-af3b-51c7856e022c</Id>
-      <Type>StationModel</Type>
+      <Id>ef540039-7710-452d-aba1-6694268d575c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>2ae3a6c2-c26b-4421-b9d0-a4e1280dc4bc</Id>
-      <Type>CreatureModel</Type>
+      <Id>dacf3b80-67dc-4051-9647-fe23796e40f3</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>c209f86d-ee43-410b-b1b9-ecc83bcdd39e</Id>
-      <Type>CreatureModel</Type>
+      <Id>14eade9a-2daf-4745-ba10-96f3ae204565</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a1d09479-2b43-4a01-a1bb-0b4b4df992fd</Id>
-      <Type>StationModel</Type>
+      <Id>163ea8a2-cf81-4022-a1fe-63731b0c0194</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>506197d0-40a5-4c58-a5f8-0bbf9f324f35</Id>
-      <Type>CreatureModel</Type>
+      <Id>406f819e-ae1d-45a8-9b7b-c23044319e5f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>5a7966f7-beca-4224-bee7-612a4364581b</Id>
-      <Type>CreatureModel</Type>
+      <Id>3db6b1ea-13fc-495a-a840-45c3760e5425</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>27de7fb6-49ab-4a34-8819-d771ab3201c6</Id>
-      <Type>StationModel</Type>
+      <Id>f437777f-ff6e-4e76-a373-dab0bc0c38ff</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>47c80271-6870-44bc-b621-5dc603fd5ad3</Id>
-      <Type>CreatureModel</Type>
+      <Id>aa716ad7-1927-453e-a603-6ef996f2d361</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8520e893-cf6f-445d-8e0f-7658cad29327</Id>
-      <Type>CreatureModel</Type>
+      <Id>2adb210e-c6bf-476e-a662-a5bcc3373c46</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d63c9f51-49ac-48db-a149-cb58922c1c69</Id>
-      <Type>StationModel</Type>
+      <Id>77e15528-bffd-45e5-aaa0-9edaa8e1d2bf</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f32962bd-c86a-4300-b73b-e78b68ca9375</Id>
-      <Type>CreatureModel</Type>
+      <Id>9483305b-8146-4f73-8136-dbbcb583a715</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f2e1d2d5-0e77-49b8-a0ed-86c3e5576eb5</Id>
-      <Type>CreatureModel</Type>
+      <Id>c4cb1420-e064-4894-a4e8-ee92070a7e4d</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>70547408-6e97-42fe-98c7-8f3b7343ffb8</Id>
-      <Type>StationModel</Type>
+      <Id>60b43a8c-1ba3-4aa7-a2c7-0535eda8a5de</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>225a1a12-b50b-4c0f-a80c-ec33c389a9fd</Id>
-      <Type>CreatureModel</Type>
+      <Id>ee3690b8-63f9-44de-8eaf-eb03c7a014cc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>f2a26ac9-403a-497b-aa53-77f38ee93461</Id>
-      <Type>CreatureModel</Type>
+      <Id>c6f9c8e0-f65b-454b-8b87-4f491beb110e</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>3d85fe4d-44ee-4e0e-a446-a5885f20c930</Id>
-      <Type>StationModel</Type>
+      <Id>71c0c080-d3b0-471d-8b94-6d8c394a1bd0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>749243e2-40ac-43c1-8e63-beb53c40d138</Id>
-      <Type>CreatureModel</Type>
+      <Id>9829d809-01b8-4624-839f-89895ae9ccec</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>b02ca1b5-3ba8-4482-865b-31756849cfd2</Id>
-      <Type>CreatureModel</Type>
+      <Id>2373012f-e4f7-4673-a009-3ba572d91de9</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e8d7665e-b45d-4579-b7bf-aa00713c1765</Id>
-      <Type>StationModel</Type>
+      <Id>fb584fb9-fb93-4d3c-aaa1-415af0266f46</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>d45b21cb-0976-4f3a-a70d-94da619ec901</Id>
-      <Type>CreatureModel</Type>
+      <Id>fbbbe065-6dca-4576-aad1-8db7f351ea59</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>df6ce81c-21cf-43aa-a7a4-52b5cb0c7b33</Id>
-      <Type>CreatureModel</Type>
+      <Id>e29b6ad1-3f4e-4b39-b8ed-c66667ea6161</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8a2f67d6-5363-4a39-9be4-031b8f2faf55</Id>
-      <Type>StationModel</Type>
+      <Id>ec94c107-4293-4dcf-b52c-659162e65db7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>e72764a5-5a01-4820-bedb-82491d3878c9</Id>
-      <Type>CreatureModel</Type>
+      <Id>0bd2fb32-ff1d-4e60-b042-c0f6172875d7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>7237cc85-3b61-444a-ac28-973f898dc14e</Id>
-      <Type>CreatureModel</Type>
+      <Id>2485680e-e952-4458-a7de-a7b8b6c3b4ef</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>a30460e2-03d8-423d-9e41-00a37a9d4574</Id>
-      <Type>StationModel</Type>
+      <Id>a0ea1cf2-ce60-4328-a712-54d0e271bbce</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>064f519d-bfc5-4676-a909-b4a35dba4ecd</Id>
-      <Type>CreatureModel</Type>
+      <Id>8505d3e1-adde-45cf-b9b0-0b0acb4405c7</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>724d738e-bfcf-4433-a304-b370328b786b</Id>
-      <Type>CreatureModel</Type>
+      <Id>0034d828-895e-42cd-818a-27f86498d3ea</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>037fd07b-0ae0-4196-a22d-511dc28516be</Id>
-      <Type>StationModel</Type>
+      <Id>0f8b9efb-3d32-43f5-9af3-52118532d5f0</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>6d186d89-6b57-433c-a9d8-e4bb5bd527da</Id>
-      <Type>CreatureModel</Type>
+      <Id>548e6660-a81a-44d8-8a56-b04a46ca0bd2</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>8503ff28-e2ab-4cad-a429-7f215dd8f0ee</Id>
-      <Type>CreatureModel</Type>
+      <Id>397ed861-0635-4aeb-a642-d42698536c3f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>9579c269-d6e3-4455-b47c-35f8a7f20b59</Id>
-      <Type>StationModel</Type>
+      <Id>6dbbb0c3-6be2-4605-afaf-0884224be8fc</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0532f5db-6464-4d21-923f-76fea66068fe</Id>
-      <Type>CreatureModel</Type>
+      <Id>298578fe-122e-4e19-8efa-76cc7af546eb</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>0a635009-f258-46d7-9489-399c5c469725</Id>
-      <Type>CreatureModel</Type>
+      <Id>a77dbb61-54fa-4781-bc38-f4c23a5e8a2c</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>01a920df-2674-4a3e-93bb-e91c54703298</Id>
-      <Type>StationModel</Type>
+      <Id>a0c45a6a-ffb8-4192-a0f7-8cdc3f6e36ef</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>27740615-b148-4589-9039-7a768e527c6d</Id>
-      <Type>CreatureModel</Type>
+      <Id>3ec1395a-e8fd-4ce7-bab9-a22c903b9d25</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
     <ModelEntry>
-      <Id>eb13e593-8159-419d-9e13-a8473c65dd36</Id>
-      <Type>CreatureModel</Type>
+      <Id>9e70afa6-d603-4435-8ef4-8d6b0cea7204</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c2bfb2e9-d34f-48e2-a774-fadf0079f546</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2cde1c16-88b0-42fe-9162-df7c30f97c96</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4535b40c-a63c-4b37-ae59-25c174c308ee</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0cd47634-266d-47d4-aa26-5f1b1babd9a0</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>69382255-53a4-497c-ae13-e6b0b405f9ec</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0bdad9d6-2038-4109-b06c-435f0f29fe49</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e19627b0-b1b2-44b3-a13f-b3b4ca500605</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>dcdd1e56-3ffe-4012-89ef-dd63c5c31fa5</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>17acceb6-55b5-4b27-a1a8-21279b89a8f9</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>149aa542-f1d3-4207-9f60-efcd95acaaff</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>72c15f04-b9fa-44d5-8050-fe0fab1c5686</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>172c3861-b46d-4dc3-8c39-b8d5d86fe4cc</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1b231973-8b28-4583-ab2d-af5828e9ea87</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>55f5d52f-7643-4041-9dca-f711f60cc170</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>256dd8b8-fd2b-436f-91d1-49b823ca927e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>cfc6fea4-0cd0-429e-820a-98544fe528da</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>5a9555c5-1173-452f-bf22-97ca5104e898</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>519c72bc-5202-475a-8801-18d9bc9ed23a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b81c1fbe-1d24-4847-b5b3-ba34a84a8282</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c4d58207-e150-4059-b31c-3c40e5614053</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2736df37-5d7d-4465-bb98-babbfe0c7b99</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4839dc1b-84c0-480c-845a-2cf54ad376d2</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>09312cec-2727-49a0-87d9-d02ee2f90637</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e029ad89-a7b5-4804-b8ca-60e8db36f2e0</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>8ad0310b-770f-4d23-9ae6-02639047d479</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>208584f1-1916-462d-9982-f8d8eaf9fb9d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>118c9014-7a18-441c-aad1-c461bea2e8f1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a0b3501b-945d-4dcc-a2ea-0636605bd1bc</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6097cdf1-045c-4da7-9878-2aa2cf409bc5</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ac078e7c-2f54-4d95-8747-23bdb7c526ba</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0587c7b3-21fc-4902-a0d9-6bdfc5c52981</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ffe6b7b3-5472-4e8e-9cc0-9deb2d8cec4e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2e051c90-fe9a-44a0-9297-1e4e42fb14d5</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0bef5487-cdad-46f6-a9de-bd80e472a1d9</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>7455f9f2-7b34-4081-8b56-27a2bda859ad</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>df0091d1-1a2a-443f-9a2b-7e2623110653</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c74a0c7d-1ef9-4834-b2ba-cf137c3b2b84</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b224a68d-8116-4224-9fa6-2891fceb5b17</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>dcc336c2-6e89-401f-a53f-dff7eebde52d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1bdefd3f-86b7-426f-acde-e1d580bd93e1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>98e727e9-58c2-45a5-b1e2-e2c0c8677957</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e9b4ffef-8839-408a-8e48-4307f1d98770</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>01c9d453-3eda-4751-920a-3b511a5f87f2</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>9f6f9348-95fe-47da-b5ad-a75653574522</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>92c8584b-6c8a-4bb6-ac70-3429b9e92362</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>42cc53e3-37e1-4573-8ce9-6fb2645bd549</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d146ae7e-329d-4700-8105-02d48215ba7d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>70cd79da-01af-47b5-a3e5-ed33e021f901</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>24a987d5-e92c-4812-bdf6-27b2406791c1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e95eb6b2-2bab-4964-8346-ca6226149fc9</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ae4ffa5c-a1b6-4aac-940d-b6f0c3cbd42c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>97d5fd9c-978b-4f33-b822-0ce22845c143</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>f9c101e0-7ca4-45d9-a52b-6cd9dca7cead</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>aab2da40-39a4-4f26-991e-c6ba992e465b</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>775a0b26-e9bd-4ad2-8622-31df95f1194e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>54986936-4cbe-4caa-bd7c-bf9ad75f0d60</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>dfa04c4f-08e4-4249-89d1-0efb2d213790</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d7df4359-389e-481f-bcd8-07aac5b8fb83</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>bd3a1b62-1157-455c-9fcb-5a7a7ef55dee</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>095e718c-eabb-4091-b427-787b49e9c1ad</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>5e0c8ed8-b614-45b2-ad18-25daf860a9ff</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>52ba165a-c7f1-47b4-8d5e-3b03f09f00a4</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4580042c-3523-4045-8c68-3aabd2d5ad91</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>327276c7-0784-4881-96e6-8ef8bc2c0712</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>13a313a5-7f95-4dbe-80f1-67d609a29979</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ba24429d-e143-4419-bdce-4701ae311fa4</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>57cff646-9962-4774-bb52-339e5d838499</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>bf3a69da-6954-4f5f-8135-d46e53cc717c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e872ab0a-3b2b-41ad-9585-13d66e1dddde</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>bf55b938-4ab9-4f8d-bf80-413d601e904f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4dac3465-db0e-40a4-ae4c-da8f28e59880</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e12873a8-9248-47ef-baac-f127addd3f01</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4625c6ea-3a49-445f-8db8-b97d7f33000e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>990af84a-f1bc-4a86-b99a-62b79ef102bb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c6b32eeb-3669-43be-be05-fefae19d0802</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>327fdd4c-cbc3-4200-bf76-d9aede18cd8b</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d02c18f3-bfb8-44a9-b886-1a1645fa4eee</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>3272f5e1-ae15-484d-9e34-a7fb5de79d68</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b9817766-9994-4d2a-afcd-8c97e8f5bebb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>da03ae89-6dd8-4014-9bf0-6925b30e7a9f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6cf62f60-477c-4354-ad1e-d37268734dc6</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>375ec609-e80b-45cc-9ae0-e7e634c8bb2c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>66f96e8a-7002-49de-adc1-741a759da62e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>77186ac8-2a58-4b33-a2e7-78705e844f20</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>7b2e2839-336d-4ebf-b913-bc532a419a14</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>31226033-7b9f-467d-93d3-80c954629e7a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0179bed3-6f43-48d6-a1f1-fa47a52dbbf2</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6ccf5fcc-1b74-45b9-97a8-2b4251f93a84</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1b85564a-a828-468c-8a2b-306ea732e724</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>dd598ac4-3e18-4780-85bc-d049bab97501</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6b62ee58-e3d3-4169-84a6-3d5335aab1e8</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0150c4b7-799c-4f94-9b2d-abb5eb9f3dc8</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>872c2c6f-a538-4bab-abc4-80e2c8e2cd3c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>631b4920-56c1-405c-926f-a64633bfd949</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b7fb120a-c7c3-4330-aa89-17d63fa3b231</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b190b09c-b9ce-45c5-9870-6969deadff54</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>5073ead2-db2d-4f09-93b4-d5487e09d896</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>78f2d72d-f16f-426b-bfdd-2e63af461bed</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>195eac76-e648-401e-8d0a-597f6863d90a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>03201575-01df-48bb-a247-116d3e747577</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>9378899c-b9f6-4420-aba2-1640a9f74c17</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>7bacf505-801e-46e3-a6ef-e440132e1343</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e7bde91b-a581-4a63-ab7e-f0f783b42862</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>cc93fe82-efa7-4eac-a8c7-0db869690630</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>09647f0f-5428-4be2-b231-0e5ea1c7f2f3</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>8df318aa-d295-437d-bbf7-e424f0194a67</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>db3e4ed2-4ee7-48f2-9e3a-12dae5029f1e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>24a2e857-ec5b-4b6e-bc39-fe55a8c51f6d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c8ee3da5-079f-4c20-8d5d-d4120c7be751</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d7b2c019-3057-4fb3-878a-a7d803f1f198</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>92764ea8-2628-4e1b-9664-f580658a677e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1af5d37d-872c-4820-ba0f-3e471e309a3d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a474de8e-48ef-4adb-8e95-0586ed0f5e44</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>146abb11-093c-49b0-9b81-522bad002622</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e70c0e0b-2900-4f86-b310-ba529076c8d3</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c6cd7c6a-fe60-4b34-9e79-a97d44451a26</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>34234c64-8c7d-48fa-b3e2-02c9e3f5ca4b</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c019f807-6871-43ea-a013-278fb8642bd4</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a8395224-34aa-4bd8-bbcb-945bfd496397</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c75a43d5-bd50-46f3-a02a-36ab1a2cc605</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a139fd40-77fa-4f50-b5f7-096cc63aebee</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>44992ae4-fd74-488a-aa01-2b5e209ba36f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c095fa62-45cc-4a96-94b3-f65309bd342b</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>dc5eac7a-6433-4f51-9e23-27ae7c7aafa5</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1b1db2f6-9569-4e9e-94ab-5b5fc9d77bc7</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1ba86456-ccf1-4885-972f-02b34e37986c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>60ad831c-abd7-4b48-9952-883cd032e788</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2482ae1e-6085-4abf-b767-71c87eb0ebe3</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e739ae7e-1dcc-45b5-909c-965460442d96</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>01e48cec-848d-4b85-b97d-268dea36f55d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1e1c105e-7752-4bf8-995b-94a3e85c0408</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6ed994e5-0073-4cf9-ade5-2fe058b8c6bb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b14a42ac-f999-4c16-b788-43eb82b83069</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e558f8e4-c342-429d-aa19-f3f21509d906</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>63503a44-a32e-4cb6-bbe2-e36db66f0b28</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4a7757bb-7249-47c5-b892-4ff802815242</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d553a540-20cc-466f-aa5a-77e19257cc5f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2c2e8d0c-d319-4b6f-b9cb-9b6339198fbc</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d0deb093-93e5-4857-bdb9-f1a46eb3297b</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ebb93893-5a2c-4977-abf7-397fc07003ec</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c88119a3-b008-4646-8eae-cc051e7fefe0</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c642858f-f9f8-4d8d-8010-41b0fe3d05b0</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>f21e90ca-7421-4653-9fc5-0c420d52270e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>41a8fb1a-1605-4a94-a170-6d78088a2813</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a28c3598-b53d-4ced-be0b-a9cfce35a27f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>042cccde-76c0-4ce8-82bb-86e7d4cd84bf</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b4c13e50-aec1-4cb3-9f4e-46f0ff65392d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c5a3ee55-8ec8-4789-8a1d-72201c4b36f9</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c7a545f7-7173-4011-ac7f-a2a64d4c3051</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>54b8dbbf-23b6-473e-ad23-907a10696418</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a7c24e24-60ae-42a1-b375-6ffff1f74fc9</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>f6795710-7603-4f04-9f25-1118d224651a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>54b8f957-8ab0-4277-8066-5a25e6c2e176</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c006a3cb-aba7-4086-b85c-beac45e0d54d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>89435370-ed71-4dff-a573-23070e84cb47</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b9a06e54-9c8a-448f-bb9b-65a0b98bccb0</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1516bd38-bf27-4ab7-8ca5-fda77417cb66</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>101a09b6-789c-4f21-9935-5c6beecefbe0</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ea074769-aa32-4a20-8bef-93b069e0ad12</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>9a6c1a23-2f10-42c5-a54b-b2c8457f361b</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>afec14ab-b3ba-4a7b-88c7-919cc0357178</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>38459ae9-2a26-4f72-9ae7-291ccd4eb1bb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>12d1d3b7-7cab-40d8-b546-223ff772e7eb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e4571939-d2aa-4ec9-ae31-873a57f0f916</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4738c29e-6104-4bd1-8604-1fd7547e1af9</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>dc0b7541-51db-480b-aa80-3852d3671e16</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>5b9b8c4d-9c19-4948-afd5-22d17bd22eda</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>595a0c20-4de9-4480-8150-bdb3be895ad0</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4c94e9d7-02f3-4349-8e34-597854e728af</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>5453fcc2-f1d1-4c0d-bc09-4827a4d33e88</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>3219640f-0f9b-4930-b1ba-ed16cd864c91</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0440500c-99bc-4dde-8169-0ccf194a31f1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>06a58c06-af6a-45a7-a89c-69b6f470a17f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>9f9ff644-bddf-43e2-90dc-c4fe88ed83f1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b5d08b05-7e85-477c-b0a5-9d728a867173</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6ac043bb-7b31-4901-83eb-eba10614a340</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2bf51439-2d6c-4ee0-aaaf-4ad8615a9737</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b2cc5254-9827-4cf1-a067-c829d7b9d671</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>499cca17-c689-4e44-b23a-feba5ca924f2</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>cda9fd63-f752-4374-b68b-ee8cf5c2607b</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>cf8d5556-5d4f-47af-87c2-adef7a30ee76</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2ca05b41-b275-444b-a5da-e772b94f3200</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c787531d-d265-4637-a734-0143938b7cd8</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>33c2a1b8-8421-4d21-9774-6335572aa2ad</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6e4a1b87-935d-41a7-b4b0-9e997ca95ea4</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>9279d272-333d-4013-8d9f-0bd9810d2288</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>009178c6-1ad7-42ff-88ba-0073d8662415</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>7f15c083-e82d-4839-a8b9-78afa2f078fb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>cbc3c558-c671-4e0f-bc97-ec7454721d58</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>abf9185f-28d6-4753-a8a5-f7e36ca06fdb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>fdf2e1e8-461b-47fa-9ae9-0d83918891dd</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4beb3338-76fb-4fdc-9668-ebd72db23d31</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>28037443-0449-42f7-8fa6-76a0f7e56fbd</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c9c8babd-07f0-4b34-b13e-d30aa2de20e2</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>93a568f3-33c8-4ba0-880c-34f83595ec27</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>466dee84-20f5-44da-966c-7be1d994c11b</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>210757cc-78ba-42e9-9595-c7bc38ea6dc1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6b6e31de-aaf0-4e3a-ad0e-617ca2885713</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>7e6d486e-9f30-4bf9-a5d2-33f20b3d1e46</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>55e5fef3-b6fc-4168-8527-1546844ef9b5</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>453636ad-24f1-4e09-8b3e-9072b33f011c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c90d4a2c-7522-4d02-942f-4c3218dcd8d1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>3601cd3b-8370-4461-a479-d10f0df8771e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>20fca128-8497-449c-962f-0a35a5256d2a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6e7e2f6a-d50f-4cfe-9aab-e026032ae91c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>02e3221e-7167-489e-90b1-ec4f5b7eb719</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>1dd2d9bf-5e63-4e8d-a255-458236e652b2</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e80aafc6-84ac-4cd7-9a49-f2aa88f8c107</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d0b34b7b-eb0d-4b36-9fd5-9d407f17b5c2</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>95eb6061-fc0a-44f5-b6be-3c276199c094</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>e6826d0e-f9d1-41fd-9e21-2a9e92e6f7ed</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4b477996-6240-4a0f-bf11-cdf99124d757</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d66e51b2-e22a-4e61-8117-1d38f7688c17</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>3ce2b5d3-1bb9-48e1-9c7d-76f341293dba</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>84df5c99-67ce-441d-b2d4-58b4fecbc95d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b2d17771-40d3-4fe3-baaa-448ac051a07f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ab37f09c-11be-4217-9f8a-abc102bba441</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>da3e4043-740d-4bb6-84b9-a237af0602f4</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0a7607d3-25b9-48ed-8669-2b717a7e12b1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>c61a2fcb-1751-454a-a729-faef0bac9ef1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2a568c32-8746-4aff-863d-83c7245c89c9</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a5065f72-f797-4739-8969-63c943c165c4</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>238b119a-a8bb-4ba9-8fc1-26a7c8e8d9c5</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>5d324a80-d99e-4ca8-89bd-6f5e96659eec</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>8f0b8bae-1c7a-4d2f-acd5-0f8d19230e64</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>50f91c72-ef16-45d9-964c-880213c25027</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>fb10c600-2437-4e82-ac90-cf33beec365e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a9f4b581-d15d-4cbf-a2f9-6788376b2b17</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>aafeb021-7e19-4006-8cdf-911cfb45ff81</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>3298dccb-cb32-4c30-8425-0fba8401d625</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d6ce0d68-27ae-4e1e-86fb-947e77c70816</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a437dcb0-a9dc-4fea-af5e-c8b96a05921f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0a033dff-595c-461e-8b7f-f7134c7a1e98</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>52e6814e-85ef-4edf-bc5c-5c0742948890</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>247fd074-6437-4297-ad7d-537576cd7da8</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>87abdc93-f15c-4598-a653-a83750b06005</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>930dc423-1c52-4f56-a41b-d770d57c59cb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>90cb7ffe-79e6-434b-a26c-be423cf8690d</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>80047538-9b7e-40fa-9d2f-fa309d207056</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>7e62a5cc-7754-448d-a44e-986c379f726f</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>9d534415-dc2d-413f-af82-725730215c80</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ea7fa68f-bd4f-47f1-bcd1-538d382e60dd</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>b322a793-4485-4a6e-ae1d-16b08ecf56bf</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>61326712-f749-4e15-8d50-316f493c60e6</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ccfab848-5c46-4683-a8d6-4433eedd62bb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>6f94c4bf-c63c-41b2-b725-ba479a9276cc</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>082d48de-05a2-4cef-ac68-4fff7f0e3133</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0ed55a23-b108-4532-9aac-babbd70c9124</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2b000ee0-ef6c-4181-b9a3-afefa51efeeb</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>2329cf1d-9548-4c08-a0a5-ffa5d38389fa</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>f68457da-8e06-4fb9-a83a-73c3d7ab34e1</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ec6ef3fc-7a03-4a45-a65c-0d2bc6685975</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>9a2d7ca9-f1f0-4fd3-a6bf-ba75a50c254e</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>77102445-a353-4619-8d95-111a06617d92</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>fa1a0977-8aea-4ea3-a424-7a593b968c42</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>4d295b11-a607-4e77-8cae-d8e39c38ccd9</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>d1bda66d-6a85-4c49-bf0a-a9d3a2cb2ea3</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>966539ae-c97c-4158-9d8e-874c38671f71</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>7bc79146-1dcc-4ac0-a988-95ec3f202598</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>a80ab194-c470-472f-8353-dd687b1b704a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>00fe7de4-40eb-4390-a5c9-7d52392df145</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ec4d1065-988f-487d-af0b-01d89d29975a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>fe4e7632-4813-4c0e-b8ef-7ab6a36fcd60</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>837d841e-7779-402d-b2bc-9755e0144612</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>055a6858-54e2-4538-803a-fc2eb2f8f184</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>07ad290f-34da-41e1-aaf4-491ffc5b9653</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ed6bd8b5-cd6a-4a7e-a3d1-b89f9c8fcffa</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ea2aa913-8d97-4877-897c-1219b281ff84</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>5cb726a2-99ac-428c-9ac1-ed94e60a392c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>5dfbf931-c6f0-4a29-b9ab-38330bc7698c</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>35a28676-1e16-4045-b8d0-a08bc3475fe5</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>0502b56e-f565-4299-9617-1627e73c8f4a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>16873b7b-53ce-4c76-8d72-af08f1aca10a</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ff679aec-8846-4c20-84c4-fb4dd70d7665</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>32fb28ff-58a4-4b5a-b726-1d3b70bdbb28</Id>
+      <Type>SolarModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>dd9a5831-cc42-4ac6-9c8a-3a6e0111993f</Id>
+      <Type>SolarModel</Type>
     </ModelEntry>
   </Entries>
 </Manifest>

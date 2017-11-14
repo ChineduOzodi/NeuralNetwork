@@ -1,35 +1,115 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public enum StructureType {
-
+public enum IdentityType {
+    Government,
+    Company,
     Station,
     Ship,
-    Human,
-    Item
+    Human
 }
 
-public enum FactoryType
+public enum ItemTypes
 {
     Coal,
     Fuel,
     Iron,
+    Rock,
     Steel,
     Ship,
     Glass,
     Sculpture,
     Wheat,
     Food,
-    Consumer
+}
+
+public enum BlueprintType
+{
+    Ship,
+    Factory,
+    Driller,
+    Storage,
+    LivingQuarters
+}
+
+public enum GroundStructureType
+{
+    Factory,
+    Driller,
+    Storage,
+    LivingQuarters
+}
+
+public enum ConstructionComponentType
+{
+    BuildingMaterial,
+    Fuel,
+    Engine,
+    Shield,
+    Weapon,
+    Container,
+    FuelTank,
+    CommandCapsule,
+    Sensor,
+    Machinary,
+    AI
+}
+
+public enum RawResources
+{
+    CoalRock,
+    IronRock,
+    UnrefinedFuel,
+    None
 }
 
 public enum SolarType
 {
     Star,
     Planet,
+    DwarfPlanet,
     Moon,
+    Comet,
     Asteroid,
     Structure
+}
+
+public enum SolarSubType
+{
+    SuperGiant,
+    WhiteDwarf,
+    MainSequence,
+    Rocky,
+    GasGiant,
+    Desert,
+    Ocean,
+    EarthLike,
+    Volcanic,
+    Ice
+}
+
+public enum PlanetTileType
+{
+    Rocky,
+    Desert,
+    Ocean,
+    Grasslands,
+    Volcanic,
+    Ice
+}
+
+public enum RawResourceType
+{
+    Silvite,
+    Goldium,
+    Quananoid,
+    Horizorium,
+    Dodite,
+    Uronimum,
+    Doronimum,
+    Astodium,
+    Limoite,
+    Galiditum
 }
 
 public enum ShipMode

@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
-using System.Collections.Generic;
+using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 using CodeControl;
 using System;
 
@@ -9,21 +10,27 @@ public class SolarController : Controller<SolarModel> {
     public GameObject sunObj;
     public GameObject planetObj;
     public GameObject moonObj;
-
     internal GameObject sun;
-    internal GameObject[] planets;
+    internal List<GameObject> planets;
+    internal StationController[] stations;
     internal List<GameObject> moons = new List<GameObject>();
     internal List<SolarBody> moonModels = new List<SolarBody>();
     internal GameManager game;
-    internal CreateGalaxy galaxy;
+    internal GalaxyManager galaxy;
+    private SpriteRenderer sprite;
+    public float solarSpriteScale = .25f;
+
+    private Vector3 lastCamPosition = Vector3.zero;
     protected override void OnInitialize()
     {
-        game = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<GameManager>();
-        galaxy = game.GetComponent<CreateGalaxy>();
-        transform.position = model.position;
+        lastCamPosition.z = -10;
+        game = GameManager.instance;
+        galaxy = GalaxyManager.instance;
+        transform.position = model.galacticPosition;
         name = model.name;
-        GetComponent<SpriteRenderer>().color = model.sun.color;
-        transform.localScale = Vector3.one * Mathf.Pow(model.sun.mass / Mathf.PI,.3f) * 2;
+        sprite = GetComponent<SpriteRenderer>();
+        sprite.color = model.solar.color;
+        transform.localScale = Vector3.one * (float)Mathd.Pow((model.solar.bodyRadius), .02f);
 
         if (model.isActive)
         {
@@ -33,143 +40,346 @@ public class SolarController : Controller<SolarModel> {
 	
 	// Update is called once per frame
 	void Update () {
-        ToggleSystem();
         if (model.isActive)
         {
-            sun.transform.localScale = Vector3.one * Mathf.Sqrt(model.sun.mass / Mathf.PI) * Mathf.Pow(game.localScaleMod, .9f);
-            game.localScaleMod = Mathf.Pow(Camera.main.orthographicSize, .5f);
-
-            for ( int i = 0; i < model.planets.Length; i++)
-            {
-                SolarBody body = model.planets[i];
-                Vector3 position = body.GetLocalPosition(game.data.date.time).cartesian;
-                planets[i].transform.position = position;
-                planets[i].transform.localScale = Vector3.one * Mathf.Sqrt(body.mass / Mathf.PI) * Mathf.Pow(game.localScaleMod, 1.3f);
-                LineRenderer line = planets[i].GetComponent<LineRenderer>();
-
-                line.startWidth = planets[i].transform.localScale.x * .3f;
-                line.endWidth = planets[i].transform.localScale.x * .3f;
-
-                
-            }
-
-            for (int i = 0; i < moons.Count; i++)
-            {               
-                SolarBody moon = moonModels[i];
-                Vector3 position = moon.GetWorldPosition(game.data.date.time);
-                moons[i].transform.position = position;
-                moons[i].transform.localScale = Vector3.one * Mathf.Sqrt(moon.mass / Mathf.PI) * Mathf.Pow(game.localScaleMod, 1.1f);
-
-                LineRenderer line = moons[i].GetComponent<LineRenderer>();
-                line.startWidth = moons[i].transform.localScale.x * .3f;
-                line.endWidth = moons[i].transform.localScale.x * .3f;
-
-                //int numPoints = (int) (body.radius * .1f);
-                int numPoints = 360;
-                float angleStep = (2 * Mathf.PI / numPoints);
-
-                //Creates the line rendering for the orbit of planets
-
-                Vector3[] orbitPos = new Vector3[numPoints + 1];
-
-                for (int b = 0; b < numPoints + 1; b++)
-                {
-                    orbitPos[b] = moon.parent.GetWorldPosition(game.data.date.time) + new Polar2(moon.radius, angleStep * b).cartesian;
-                }
-                line.numPositions = numPoints;
-                line.SetPositions(orbitPos);
-            }
+            game.localScaleMod = Mathf.Pow(Camera.main.orthographicSize, .7f) / 90;
+            sun.transform.localScale = Vector3.one * (float)Mathd.Pow((model.solar.bodyRadius), solarSpriteScale) * Mathf.Pow(game.localScaleMod, .9f);
         }
+        
+        ToggleSystem();
 		
 	}
 
+    public IEnumerator UpdateSolarObjects()
+    {
+        while (model.isActive)
+        {
+            
+
+            for (int i = 0; i < model.solar.satelites.Count; i++)
+            {
+                SolarBody body = model.solar.satelites[i];
+                Vector3 position = (Vector2)body.GamePosition(game.data.date.time);
+
+                Vector3 screenPoint = Camera.main.WorldToViewportPoint(position);
+                bool onScreen = screenPoint.z > 0 && screenPoint.x > 0 && screenPoint.x < 1 && screenPoint.y > 0 && screenPoint.y < 1;
+
+                if (onScreen)
+                {
+                    var visible = CheckVisibility(body);
+
+                    planets[i].SetActive(visible);
+
+                    planets[i].transform.position = sun.transform.position + position;
+                    //planets[i].transform.localScale = Vector3.one * (float)Mathd.Pow((body.bodyRadius), solarSpriteScale) * Mathf.Pow(game.localScaleMod, .9f);
+                    planets[i].transform.localScale = sun.transform.localScale * .5f;
+
+                    LineRenderer line = planets[i].GetComponent<LineRenderer>();
+
+                    line.widthMultiplier = planets[i].transform.localScale.x * .3f;
+                    yield return null;
+                }
+
+                
+
+            }
+
+            for (int i = 0; i < moons.Count; i++)
+            {
+                SolarBody moon = moonModels[i];
+                Vector3 position = (Vector2)moon.GamePosition(game.data.date.time);
+                position += model.solar.satelites[moon.solarIndex[1]].GamePosition(game.data.date.time);
+
+                Vector3 screenPoint = Camera.main.WorldToViewportPoint(position);
+                bool onScreen = screenPoint.z > 0 && screenPoint.x > 0 && screenPoint.x < 1 && screenPoint.y > 0 && screenPoint.y < 1;
+
+                if (onScreen)
+                {
+                    var visible = CheckVisibility(moon);
+                    moons[i].SetActive(visible);
+                    LineRenderer line = moons[i].GetComponent<LineRenderer>();
+
+                    line.widthMultiplier = moons[i].transform.localScale.x * .3f;
+
+                    moons[i].transform.position = position;
+                    //moons[i].transform.localScale = Vector3.one * (float)Mathd.Pow((moon.bodyRadius), solarSpriteScale) * Mathf.Pow(game.localScaleMod, .9f);
+                    moons[i].transform.localScale = sun.transform.localScale * .15f;
+
+                    //Creates the line rendering for the orbit of moons
+
+                    line = moons[i].GetComponent<LineRenderer>();
+
+                    var positions = new Vector3[361];
+
+                    var timeInc = (moon.OrbitalPeriod(model.solar.satelites[moon.solarIndex[1]].mass) / 360);
+                    double time = game.data.date.time;
+
+                    for (var b = 0; b < 361; b++)
+                    {
+                        positions[b] = model.solar.satelites[moon.solarIndex[1]].GamePosition(game.data.date.time) + moon.GamePosition(time);
+                        time += timeInc;
+                    }
+                    line.positionCount = 361;
+                    line.SetPositions(positions);
+
+                    yield return null;
+                }
+
+            }
+            yield return null;
+        }
+    }
+
+    private bool CheckVisibility(SolarBody body)
+    {
+        if (body.solarType == SolarType.Planet)
+        {
+            if (!MapTogglePanel.instance.planet.isOn)
+            {
+                return false;
+            }
+            else
+            {
+                return MapTogglePanel.instance.subtypes[body.solarSubType].isOn;
+            }
+        }
+        if (body.solarType == SolarType.DwarfPlanet)
+        {
+            if (!MapTogglePanel.instance.dwarfPlanet.isOn)
+            {
+                return false;
+            }
+            else
+            {
+                return MapTogglePanel.instance.subtypes[body.solarSubType].isOn;
+            }
+        }
+        if (body.solarType == SolarType.Comet)
+        {
+            if (!MapTogglePanel.instance.comet.isOn)
+            {
+                return false;
+            }
+            else
+            {
+                return MapTogglePanel.instance.subtypes[body.solarSubType].isOn;
+            }
+        }
+        if (body.solarType == SolarType.Asteroid)
+        {
+            if (!MapTogglePanel.instance.asteroid.isOn)
+            {
+                return false;
+            }
+            else
+            {
+                return MapTogglePanel.instance.subtypes[body.solarSubType].isOn;
+            }
+        }
+
+        if (body.solarType == SolarType.Moon)
+        {
+            if (!MapTogglePanel.instance.moons.isOn)
+            {
+                return false;
+            }
+            else if (planets[body.solarIndex[1]].activeSelf)
+            {
+                return MapTogglePanel.instance.subtypes[body.solarSubType].isOn;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    internal SolarModel GetModel()
+    {
+        return model;
+    }
+
+    protected override void OnModelChanged()
+    {
+
+        sprite.color = model.color;
+        if (model.isActive)
+            transform.localScale = Vector3.one * model.localScale;
+    }
+
     public void ToggleSystem()
+    {
+        SystemToggle();
+    }
+    //TODO: new way to save and load focus star system
+    private void SystemToggle()
     {
         if (galaxy.solar == this && Camera.main.cullingMask == galaxy.solarMask && !model.isActive)
         {
             model.isActive = true;
+            game.nameOfSystem.text = model.name;
+            var mainCam = Camera.main;
+            var newCamPos = mainCam.transform.position;
+            mainCam.transform.position = lastCamPosition;
+            lastCamPosition = newCamPos;
             CreateSystem();
         }
         else if ((galaxy.solar != this || Camera.main.cullingMask != galaxy.solarMask) && model.isActive)
         {
+            var mainCam = Camera.main;
+            var newCamPos = mainCam.transform.position;
+            mainCam.transform.position = lastCamPosition;
+            lastCamPosition = newCamPos;
             model.isActive = false;
+            game.nameOfSystem.text = "Galaxy";
             DestroySystem();
         }
-        //else if (galaxy.solar != this || Camera.main.cullingMask != galaxy.solarMask)
-        //{
-        //    model.isActive = false;
-        //}
-
     }
 
     public void CreateSystem()
     {
+        model.localScale = 1;
         transform.localScale = Vector3.one;
         sun = Instantiate(sunObj, transform);
+        sun.name = model.name + " Sun";
         sun.transform.position = Vector3.zero;
-        sun.transform.localScale = Vector3.one * Mathf.Sqrt(model.sun.mass / Mathf.PI);
-        sun.GetComponent<SpriteRenderer>().color = model.sun.color;
+        sun.transform.localScale = Vector3.one * (float)Mathd.Pow((model.solar.bodyRadius / GameDataModel.solarDistanceMultiplication), solarSpriteScale);
+        sun.GetComponent<SpriteRenderer>().color = model.solar.color;
         sun.GetComponent<SpriteRenderer>().sortingOrder = 5;
-        planets = new GameObject[model.planets.Length];
-        for (int i = 0; i < model.planets.Length; i++)
+
+        var info = sun.GetComponent<PlanetInfo>();
+        info.solar = model.solar;
+
+        planets = new List<GameObject>();
+        for (int i = 0; i < model.solar.satelites.Count; i++)
         {
-            SolarBody body = model.planets[i];
-            Vector3 position = body.GetLocalPosition(game.data.date.time).cartesian;
-            planets[i] = Instantiate(planetObj,transform);
+            SolarBody body = model.solar.satelites[i];
+            Vector3 position = sun.transform.position + body.GamePosition(game.data.date.time);
+            planets.Add(Instantiate(planetObj, transform));
             planets[i].name = body.name;
             planets[i].transform.localPosition = position;
             planets[i].GetComponent<SpriteRenderer>().color = body.color;
             planets[i].GetComponent<SpriteRenderer>().sortingOrder = 4;
-            planets[i].transform.localScale = Vector3.one * (Mathf.Sqrt(body.mass / Mathf.PI));
+            planets[i].transform.localScale = Vector3.one * (float)Mathd.Pow((body.bodyRadius), solarSpriteScale);
 
-            //int numPoints = (int) (body.radius * .1f);
-            int numPoints = 360;
-            float angleStep = (2 * Mathf.PI / numPoints);
+            info = planets[i].GetComponent<PlanetInfo>();
+            info.solar = body;
 
             //Creates the line rendering for the orbit of planets
 
-            Vector3[] orbitPos = new Vector3[numPoints + 1];
-
-            for (int b = 0; b < numPoints + 1; b++)
-            {
-                orbitPos[b] = new Polar2(body.radius, angleStep * b).cartesian;
-            }
             LineRenderer line = planets[i].GetComponent<LineRenderer>();
-            line.numPositions = numPoints;
-            line.SetPositions(orbitPos);
+
+            Vector3[] positions = new Vector3[361];
+
+            double timeInc = (body.OrbitalPeriod(model.solar.mass) / 360);
+            double time = game.data.date.time;
+
+            for (var b = 0; b < 361; b++)
+            {
+                positions[b] = body.GamePosition(time);
+                time += timeInc;
+            }
+            line.positionCount = 361;
+            line.SetPositions(positions);
+            
+            if (body.solarSubType == SolarSubType.GasGiant)
+            {
+                Color col = Color.blue;
+                col.a = .25f;
+                line.startColor = col;
+                line.endColor = col;
+            }
+            else if (body.solarType == SolarType.DwarfPlanet)
+            {
+                Color col = Color.yellow;
+                col.a = .25f;
+                line.startColor = col;
+                line.endColor = col;
+            }
+            else if (body.solarType == SolarType.Comet)
+            {
+                Color col = Color.white;
+                col.a = .25f;
+                line.startColor = col;
+                line.endColor = col;
+            }
+            else
+            {
+                Color col = Color.green;
+                col.a = .25f;
+                line.startColor = col;
+                line.endColor = col;
+            }
 
             //Create Moons
-            for (int m = 0; m < model.planets[i].children.Length; m++)
+            for (int m = 0; m < model.solar.satelites[i].satelites.Count; m++)
             {
-                SolarBody moon = model.planets[i].children[m];
-                position = moon.GetLocalPosition(game.data.date.time).cartesian;
+                SolarBody moon = model.solar.satelites[i].satelites[m];
+                position = moon.GamePosition(game.data.date.time);
+                position += model.solar.satelites[moon.solarIndex[1]].GamePosition(game.data.date.time);
                 moonModels.Add(moon);
+
                 moons.Add(Instantiate(moonObj, transform));
                 moons[moons.Count - 1].name = moon.name;
-                moons[moons.Count - 1].transform.localPosition = position;
+                moons[moons.Count - 1].transform.position = position;
                 moons[moons.Count - 1].GetComponent<SpriteRenderer>().color = moon.color;
                 moons[moons.Count - 1].GetComponent<SpriteRenderer>().sortingOrder = 3;
-                moons[moons.Count - 1].transform.localScale = Vector3.one * (Mathf.Sqrt(body.mass / Mathf.PI));
+                moons[moons.Count - 1].transform.localScale = Vector3.one * (float)Mathd.Pow((moon.bodyRadius), solarSpriteScale);
+
+                info = moons[moons.Count - 1].GetComponent<PlanetInfo>();
+                info.solar = moon;
             }
         }
+
+        //Create Stations
+        stations = new StationController[model.stations.Count];
+        int c = 0;
+        foreach (StationModel station in model.stations)
+        {
+            stations[c] = Controller.Instantiate<StationController>("station", station);
+            c++;
+        }
+
+        StartCoroutine("UpdateSolarObjects");
     }
 
     public void DestroySystem()
     {
-        transform.localScale = Vector3.one * Mathf.Pow(model.sun.mass / Mathf.PI, .3f) * 2;
-
+        //if (model.nameText != "" && model.nameText != null)
+        //{
+        //    nameButton.enabled = false;
+        //}
+        StopAllCoroutines();
+        transform.localScale = Vector3.one * (float) Mathd.Pow((model.solar.bodyRadius), .01f);
+        model.localScale = (float) Mathd.Pow((model.solar.bodyRadius), .01f);
         Destroy(sun);
-        for (int i = 0; i < model.planets.Length; i++)
+        for (int i = 0; i < planets.Count; i++)
         {
             Destroy(planets[i]);
             
         }
-        planets = new GameObject[0];
+        planets = new List<GameObject>();
         for (int i = 0; i < moons.Count; i++)
         {
             Destroy(moons[i]);
             
         }
         moons = new List<GameObject>();
+        for (int i = 0; i < stations.Length; i++)
+        {
+            Destroy(stations[i].gameObject);
+
+        }
+        stations = new StationController[0];
+    }
+
+    public void OnMouseEnter()
+    {
+        ToolTip.instance.SetTooltip(model.name, String.Format("Satellites: {0}", model.solar.satelites.Count));
+    }
+    public void OnMouseExit()
+    {
+        ToolTip.instance.CancelTooltip();
     }
 }
